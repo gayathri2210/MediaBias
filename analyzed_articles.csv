@@ -1,0 +1,671 @@
+meaningful_phrase,bias,outlet,url,sentiment,bias_score,lean_score
+send customized marketing,left,https://www.huffpost.com,https://www.huffpost.com/news/crime,0.0,0.9096666666666667,-0.9096666666666667
+customized marketing messages,left,https://www.huffpost.com,https://www.huffpost.com/news/crime,0.0,0.9131666666666667,-0.9131666666666667
+marketing messages advertising,left,https://www.huffpost.com,https://www.huffpost.com/news/crime,0.0,0.9476666666666667,-0.9476666666666667
+messages advertising,left,https://www.huffpost.com,https://www.huffpost.com/news/crime,0.0,0.8562,-0.8562
+marketing messages,left,https://www.huffpost.com,https://www.huffpost.com/news/crime,0.0,0.8125666666666667,-0.8125666666666667
+send customized marketing,left,https://www.huffpost.com,https://www.huffpost.com/news/politics,0.0,0.9096666666666667,-0.9096666666666667
+customized marketing messages,left,https://www.huffpost.com,https://www.huffpost.com/news/politics,0.0,0.9131666666666667,-0.9131666666666667
+marketing messages advertising,left,https://www.huffpost.com,https://www.huffpost.com/news/politics,0.0,0.9476666666666667,-0.9476666666666667
+messages advertising,left,https://www.huffpost.com,https://www.huffpost.com/news/politics,0.0,0.8562,-0.8562
+marketing messages,left,https://www.huffpost.com,https://www.huffpost.com/news/politics,0.0,0.8125666666666667,-0.8125666666666667
+trump tariffs greatly,left,https://www.vox.com,https://www.vox.com/politics/406820/trump-tariffs-liberation-day-live-updates-global-markets,0.8,0.9012666666666668,-0.9012666666666668
+trump tariffs,left,https://www.vox.com,https://www.vox.com/politics/406820/trump-tariffs-liberation-day-live-updates-global-markets,0.0,0.7282666666666667,-0.7282666666666667
+trump unveiled tariff,left,https://www.vox.com,https://www.vox.com/politics/406820/trump-tariffs-liberation-day-live-updates-global-markets,0.0,0.8512666666666666,-0.8512666666666666
+trump imposed tariffs,left,https://www.vox.com,https://www.vox.com/politics/406820/trump-tariffs-liberation-day-live-updates-global-markets,0.0,0.8549333333333333,-0.8549333333333333
+worried confused tariffs,left,https://www.vox.com,https://www.vox.com/politics/406820/trump-tariffs-liberation-day-live-updates-global-markets,-0.4,0.8506666666666667,-0.8506666666666667
+spokesperson national security,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-atlantic-signal-war-chat-leak/,0.0,0.8777666666666667,-0.8777666666666667
+national security officials,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-atlantic-signal-war-chat-leak/,0.0,0.9269333333333334,-0.9269333333333334
+officials national security,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-atlantic-signal-war-chat-leak/,0.0,0.8905333333333334,-0.8905333333333334
+officials involved chat,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-atlantic-signal-war-chat-leak/,0.0,0.8001333333333333,-0.8001333333333333
+national security experts,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-atlantic-signal-war-chat-leak/,0.0,0.9312,-0.9312
+measles prompted public,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/robert-f-kennedy-jr-measles-outbreak-hysteria-hhs-cdc/,0.0,0.8753666666666667,-0.8753666666666667
+measles vaccine,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/robert-f-kennedy-jr-measles-outbreak-hysteria-hhs-cdc/,0.0,0.8376666666666667,-0.8376666666666667
+attitude measles vaccines,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/robert-f-kennedy-jr-measles-outbreak-hysteria-hhs-cdc/,0.0,0.8864000000000001,-0.8864000000000001
+tied measles vaccine,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/robert-f-kennedy-jr-measles-outbreak-hysteria-hhs-cdc/,0.0,0.8796666666666667,-0.8796666666666667
+measles vaccines,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/robert-f-kennedy-jr-measles-outbreak-hysteria-hhs-cdc/,0.0,0.8354666666666667,-0.8354666666666667
+funding students disabilities,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/02/ai-artifical-intelligence-determine-cuts-department-education-disabled-students-disabiility-rights/,0.0,0.8575666666666667,-0.8575666666666667
+access education states,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/02/ai-artifical-intelligence-determine-cuts-department-education-disabled-students-disabiility-rights/,0.0,0.9073333333333333,-0.9073333333333333
+federal funding students,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/02/ai-artifical-intelligence-determine-cuts-department-education-disabled-students-disabiility-rights/,0.0,0.9002666666666667,-0.9002666666666667
+reduce education spending,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/02/ai-artifical-intelligence-determine-cuts-department-education-disabled-students-disabiility-rights/,0.0,0.9049999999999999,-0.9049999999999999
+education spending possible,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/02/ai-artifical-intelligence-determine-cuts-department-education-disabled-students-disabiility-rights/,0.0,0.8962333333333333,-0.8962333333333333
+planned parenthood medicaid,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/south-carolina-attacked-planned-parenthood-will-scotus-let-patients-fight-back/,0.0,0.8982333333333333,-0.8982333333333333
+planned parenthood congress,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/south-carolina-attacked-planned-parenthood-will-scotus-let-patients-fight-back/,0.0,0.9151333333333334,-0.9151333333333334
+planned parenthood south,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/south-carolina-attacked-planned-parenthood-will-scotus-let-patients-fight-back/,0.0,0.9113000000000001,-0.9113000000000001
+planned parenthood forced,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/south-carolina-attacked-planned-parenthood-will-scotus-let-patients-fight-back/,-0.30000000000000004,0.9365,-0.9365
+planned parenthood weren,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/south-carolina-attacked-planned-parenthood-will-scotus-let-patients-fight-back/,0.0,0.9117666666666667,-0.9117666666666667
+violence research funded,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/domestic-violence-and-maternal-mortality-are-rising-the-nih-just-defunded-a-project-to-study-both/,0.0,0.8531666666666666,-0.8531666666666666
+violence ipv pregnancy,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/domestic-violence-and-maternal-mortality-are-rising-the-nih-just-defunded-a-project-to-study-both/,0.0,0.8591000000000001,-0.8591000000000001
+research violence women,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/domestic-violence-and-maternal-mortality-are-rising-the-nih-just-defunded-a-project-to-study-both/,0.0,0.9245,-0.9245
+maternal mortality violence,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/domestic-violence-and-maternal-mortality-are-rising-the-nih-just-defunded-a-project-to-study-both/,0.0,0.8939666666666666,-0.8939666666666666
+issue research homicide,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/domestic-violence-and-maternal-mortality-are-rising-the-nih-just-defunded-a-project-to-study-both/,0.0,0.9414000000000001,-0.9414000000000001
+clean hudson river,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/rfk-jr-s-old-environmental-group-is-extremely-unhappy-with-trumps-epa/,0.3666666666666667,0.9194666666666667,-0.9194666666666667
+organization riverkeeper,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/rfk-jr-s-old-environmental-group-is-extremely-unhappy-with-trumps-epa/,0.0,0.7804666666666668,-0.7804666666666668
+riverkeeper rely epa,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/rfk-jr-s-old-environmental-group-is-extremely-unhappy-with-trumps-epa/,0.0,0.8575333333333334,-0.8575333333333334
+hudson river recovering,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/rfk-jr-s-old-environmental-group-is-extremely-unhappy-with-trumps-epa/,0.0,0.8740666666666667,-0.8740666666666667
+riverkeeper shocked organization,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/rfk-jr-s-old-environmental-group-is-extremely-unhappy-with-trumps-epa/,-0.7,0.8897,-0.8897
+proliferation tesla protests,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/,0.0,0.8984666666666667,-0.8984666666666667
+tesla protests,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/,0.0,0.7884000000000001,-0.7884000000000001
+protesting tesla,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/,0.0,0.8064666666666667,-0.8064666666666667
+violence vandalizing tesla,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/,0.0,0.8715999999999999,-0.8715999999999999
+government protesting tesla,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/elon-musk-tesla-protests-transphobia/,0.0,0.8958666666666666,-0.8958666666666666
+grant funds farmers,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/farmers-in-trump-country-banked-on-clean-energy-grants-then-things-changed/,0.0,0.891,-0.891
+grant program farmers,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/farmers-in-trump-country-banked-on-clean-energy-grants-then-things-changed/,0.0,0.8396,-0.8396
+renewable energy grant,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/farmers-in-trump-country-banked-on-clean-energy-grants-then-things-changed/,0.0,0.8774666666666667,-0.8774666666666667
+energy grant hoping,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/farmers-in-trump-country-banked-on-clean-energy-grants-then-things-changed/,0.0,0.8920333333333333,-0.8920333333333333
+usda said grant,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/farmers-in-trump-country-banked-on-clean-energy-grants-then-things-changed/,0.0,0.8280333333333333,-0.8280333333333333
+miami beach cinema,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/o-cinema-miami-beach-florida-no-other-land-censorship-palestine/,0.0,0.8755666666666667,-0.8755666666666667
+movie miami beach,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/o-cinema-miami-beach-florida-no-other-land-censorship-palestine/,0.0,0.9055,-0.9055
+miami beach mayor,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/o-cinema-miami-beach-florida-no-other-land-censorship-palestine/,0.0,0.8643666666666667,-0.8643666666666667
+tabsch interacted miami,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/o-cinema-miami-beach-florida-no-other-land-censorship-palestine/,0.0,0.8274333333333334,-0.8274333333333334
+miami beach municipal,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/o-cinema-miami-beach-florida-no-other-land-censorship-palestine/,0.0,0.8710999999999999,-0.8710999999999999
+youth deportations gerson,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/trump-hhs-unaccompanied-minors-immigration-legal/,0.0,0.9387666666666666,-0.9387666666666666
+deportations gerson,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/trump-hhs-unaccompanied-minors-immigration-legal/,0.0,0.7536,-0.7536
+support unaccompanied minors,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/trump-hhs-unaccompanied-minors-immigration-legal/,0.0,0.8819666666666667,-0.8819666666666667
+000 unaccompanied minors,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/trump-hhs-unaccompanied-minors-immigration-legal/,0.0,0.9003,-0.9003
+deportations gerson asked,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/trump-hhs-unaccompanied-minors-immigration-legal/,0.0,0.9006666666666666,-0.9006666666666666
+trump trade tariffs,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/donald-trump-tariffs-corruption/,0.0,0.8888666666666666,-0.8888666666666666
+trump tariffs potent,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/donald-trump-tariffs-corruption/,0.5,0.9013333333333332,-0.9013333333333332
+tariffs trump poised,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/donald-trump-tariffs-corruption/,0.0,0.8522,-0.8522
+trump tariffs,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/donald-trump-tariffs-corruption/,0.0,0.7282666666666667,-0.7282666666666667
+tariffs trump,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/donald-trump-tariffs-corruption/,0.0,0.7381000000000001,-0.7381000000000001
+deathtrap duncan fought,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/louisiana-execution-bolts-chris-duncan-jeff-landry-death-row-capital-punishment/,0.0,0.9076333333333334,-0.9076333333333334
+duncan fought haley,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/louisiana-execution-bolts-chris-duncan-jeff-landry-death-row-capital-punishment/,0.0,0.8641,-0.8641
+duncan fought,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/louisiana-execution-bolts-chris-duncan-jeff-landry-death-row-capital-punishment/,0.0,0.7871333333333334,-0.7871333333333334
+fought haley mom,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/louisiana-execution-bolts-chris-duncan-jeff-landry-death-row-capital-punishment/,0.0,0.8957333333333333,-0.8957333333333333
+duncan victim,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/louisiana-execution-bolts-chris-duncan-jeff-landry-death-row-capital-punishment/,-0.07500000000000001,0.7625666666666667,-0.7625666666666667
+democracy tocqueville,left,https://www.motherjones.com,https://www.motherjones.com/politics/2024/11/our-democracy-photography-alexis-de-tocqueville-election-inequality/,0.0,0.7662,-0.7662
+democracy tocqueville called,left,https://www.motherjones.com,https://www.motherjones.com/politics/2024/11/our-democracy-photography-alexis-de-tocqueville-election-inequality/,0.0,0.9014666666666667,-0.9014666666666667
+crisis democracy tocqueville,left,https://www.motherjones.com,https://www.motherjones.com/politics/2024/11/our-democracy-photography-alexis-de-tocqueville-election-inequality/,0.0,0.8605999999999999,-0.8605999999999999
+fight american democracy,left,https://www.motherjones.com,https://www.motherjones.com/politics/2024/11/our-democracy-photography-alexis-de-tocqueville-election-inequality/,0.0,0.8813,-0.8813
+american democracy,left,https://www.motherjones.com,https://www.motherjones.com/politics/2024/11/our-democracy-photography-alexis-de-tocqueville-election-inequality/,0.0,0.8434333333333334,-0.8434333333333334
+covid pandemic contrarian,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-nih-jay-bhattacharya-covid-south-africa-nick-hudson-panda/,0.0,0.8599666666666667,-0.8599666666666667
+prominent covid pandemic,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-nih-jay-bhattacharya-covid-south-africa-nick-hudson-panda/,0.5,0.9113333333333333,-0.9113333333333333
+covid pandemic,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-nih-jay-bhattacharya-covid-south-africa-nick-hudson-panda/,0.0,0.8001,-0.8001
+claimed covid pandemic,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-nih-jay-bhattacharya-covid-south-africa-nick-hudson-panda/,0.0,0.8963,-0.8963
+bhattacharya covid skeptics,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/trump-nih-jay-bhattacharya-covid-south-africa-nick-hudson-panda/,0.0,0.8551333333333333,-0.8551333333333333
+alleged corruption,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/eric-adams-kash-patel-book-judge-drops-case-corruption/,-0.1,0.8148,-0.8148
+brazen adams allegations,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/eric-adams-kash-patel-book-judge-drops-case-corruption/,0.0,0.8828999999999999,-0.8828999999999999
+allegations adams,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/eric-adams-kash-patel-book-judge-drops-case-corruption/,0.0,0.7750666666666667,-0.7750666666666667
+allegations adams fully,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/eric-adams-kash-patel-book-judge-drops-case-corruption/,0.0,0.9060666666666667,-0.9060666666666667
+investigation alleged corruption,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/eric-adams-kash-patel-book-judge-drops-case-corruption/,-0.1,0.9374666666666668,-0.9374666666666668
+anchor fox news,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/media-distrust-trump-republicans-fox-news-maga-megyn-kelly/,0.0,0.9300666666666667,-0.9300666666666667
+ceo npr,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/media-distrust-trump-republicans-fox-news-maga-megyn-kelly/,0.0,0.7435666666666666,-0.7435666666666666
+chair nbcuniversal news,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/media-distrust-trump-republicans-fox-news-maga-megyn-kelly/,0.0,0.9403666666666667,-0.9403666666666667
+news semafor sponsored,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/media-distrust-trump-republicans-fox-news-maga-megyn-kelly/,0.0,0.9221333333333334,-0.9221333333333334
+articles politics media,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/media-distrust-trump-republicans-fox-news-maga-megyn-kelly/,0.0,0.9292000000000001,-0.9292000000000001
+wisconsin state supreme,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/susan-crawford-elon-musk-wisconsin-supreme-court-schimel-ttrump/,0.0,0.8699333333333333,-0.8699333333333333
+wisconsin supreme court,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/susan-crawford-elon-musk-wisconsin-supreme-court-schimel-ttrump/,0.0,0.8845999999999999,-0.8845999999999999
+opponent wisconsin supreme,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/susan-crawford-elon-musk-wisconsin-supreme-court-schimel-ttrump/,0.0,0.8969666666666667,-0.8969666666666667
+said wisconsin supreme,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/susan-crawford-elon-musk-wisconsin-supreme-court-schimel-ttrump/,0.0,0.8896666666666667,-0.8896666666666667
+issue wisconsin state,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/susan-crawford-elon-musk-wisconsin-supreme-court-schimel-ttrump/,0.0,0.9578666666666668,-0.9578666666666668
+ban books indecent,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/texas-bill-prison-teachers-librarians-books-sexual-profane-content-ban/,0.0,0.8885,-0.8885
+explicit content punishable,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/texas-bill-prison-teachers-librarians-books-sexual-profane-content-ban/,0.0,0.9062,-0.9062
+books indecent content,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/texas-bill-prison-teachers-librarians-books-sexual-profane-content-ban/,0.0,0.9082333333333333,-0.9082333333333333
+sexually explicit content,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/texas-bill-prison-teachers-librarians-books-sexual-profane-content-ban/,0.5,0.8759333333333332,-0.8759333333333332
+children harm books,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/texas-bill-prison-teachers-librarians-books-sexual-profane-content-ban/,0.0,0.8729,-0.8729
+prosecution pro trump,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/ed-martin-fundraiser-oath-keepers-january-6/,0.0,0.8043,-0.8043
+accused capitol attackers,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/ed-martin-fundraiser-oath-keepers-january-6/,0.0,0.8466999999999999,-0.8466999999999999
+pro trump insurrectionists,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/ed-martin-fundraiser-oath-keepers-january-6/,0.0,0.906,-0.906
+trump administration prosecutor,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/ed-martin-fundraiser-oath-keepers-january-6/,0.0,0.8348333333333334,-0.8348333333333334
+attack congress speech,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/ed-martin-fundraiser-oath-keepers-january-6/,0.0,0.8696,-0.8696
+drug testing mothers,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/drug-testing-during-childbirth/,0.0,0.8502666666666667,-0.8502666666666667
+maternal drug tests,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/drug-testing-during-childbirth/,0.0,0.8741666666666666,-0.8741666666666666
+drug testing newborns,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/drug-testing-during-childbirth/,0.0,0.8527,-0.8527
+drug test newborn,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/drug-testing-during-childbirth/,0.0,0.8624666666666667,-0.8624666666666667
+newborn drug test,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/drug-testing-during-childbirth/,0.0,0.8709000000000001,-0.8709000000000001
+podcast founder abortion,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/lizz-winstead-abortion-rights-ban-trump-dobbs/,0.0,0.8064,-0.8064
+feminist buzzkills podcast,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/lizz-winstead-abortion-rights-ban-trump-dobbs/,0.0,0.8165,-0.8165
+politics comedy educate,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/lizz-winstead-abortion-rights-ban-trump-dobbs/,0.0,0.9232333333333332,-0.9232333333333332
+combining comedy politics,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/lizz-winstead-abortion-rights-ban-trump-dobbs/,0.0,0.9135666666666666,-0.9135666666666666
+comedy politics,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/lizz-winstead-abortion-rights-ban-trump-dobbs/,0.0,0.8197000000000001,-0.8197000000000001
+musk trump governing,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-cant-take-the-heat-wisconsin-supreme-court-empathy-doge/,0.0,0.8866333333333333,-0.8866333333333333
+musk boastful threatening,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-cant-take-the-heat-wisconsin-supreme-court-empathy-doge/,0.0,0.8767333333333333,-0.8767333333333333
+insane democrats musk,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-cant-take-the-heat-wisconsin-supreme-court-empathy-doge/,-1.0,0.8763,-0.8763
+democrats musk spiraling,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-cant-take-the-heat-wisconsin-supreme-court-empathy-doge/,0.0,0.8237333333333333,-0.8237333333333333
+democrats musk,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-cant-take-the-heat-wisconsin-supreme-court-empathy-doge/,0.0,0.7521,-0.7521
+fight sanders rallies,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/,0.0,0.9304,-0.9304
+sanders rallies,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/,0.0,0.8215333333333333,-0.8215333333333333
+rallies sanders,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/,0.0,0.8318,-0.8318
+sanders led fighting,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/,0.0,0.8631666666666667,-0.8631666666666667
+fight sanders,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/bernie-sanders-alexandria-ocasio-cortez-fight-oligarchy-tour/,0.0,0.8144333333333332,-0.8144333333333332
+biggest protest history,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/,0.0,0.9423333333333334,-0.9423333333333334
+time biggest protest,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/,0.0,0.9105666666666666,-0.9105666666666666
+protest history,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/,0.0,0.8084000000000001,-0.8084000000000001
+biggest protest,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/,0.0,0.7676666666666666,-0.7676666666666666
+protest endured,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/garrison-hayes-video-inauguration-black-church/,0.0,0.8206333333333333,-0.8206333333333333
+rankin county notorious,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/this-weeks-reveal-podcast-the-deputies-who-tortured-a-mississippi-county/,0.0,0.8491,-0.8491
+murphy says deputies,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/this-weeks-reveal-podcast-the-deputies-who-tortured-a-mississippi-county/,0.0,0.8860666666666667,-0.8860666666666667
+deputies roamed rankin,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/this-weeks-reveal-podcast-the-deputies-who-tortured-a-mississippi-county/,0.0,0.8731,-0.8731
+heard brutal sheriff,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/this-weeks-reveal-podcast-the-deputies-who-tortured-a-mississippi-county/,-0.875,0.8764,-0.8764
+free mother jones,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/this-weeks-reveal-podcast-the-deputies-who-tortured-a-mississippi-county/,0.4,0.8757,-0.8757
+did prison violence,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/the-strike-that-broke-a-supermax-prison-pelican-bay/,0.0,0.9244333333333333,-0.9244333333333333
+prison violence,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/the-strike-that-broke-a-supermax-prison-pelican-bay/,0.0,0.8301666666666666,-0.8301666666666666
+aggressively targeting prison,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/the-strike-that-broke-a-supermax-prison-pelican-bay/,0.0,0.8730333333333333,-0.8730333333333333
+prison gangs morris,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/the-strike-that-broke-a-supermax-prison-pelican-bay/,0.0,0.8921,-0.8921
+prison violence learn,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/the-strike-that-broke-a-supermax-prison-pelican-bay/,0.0,0.9067666666666666,-0.9067666666666666
+judicial election wisconsin,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-susan-crawford-wisconsin-supreme-court/,0.0,0.8847333333333333,-0.8847333333333333
+oligarchy wisconsin democratic,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-susan-crawford-wisconsin-supreme-court/,0.0,0.8962333333333333,-0.8962333333333333
+wisconsin supreme court,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-susan-crawford-wisconsin-supreme-court/,0.0,0.8845999999999999,-0.8845999999999999
+wisconsin democracy,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-susan-crawford-wisconsin-supreme-court/,0.0,0.7879666666666667,-0.7879666666666667
+wisconsin democracy order,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/04/elon-musk-susan-crawford-wisconsin-supreme-court/,0.0,0.8631333333333333,-0.8631333333333333
+usda dog training,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/doge-usda-job-cuts-reductions-force-higher-food-grocery-prices-agricultural-pests-inspections/,0.0,0.8533666666666667,-0.8533666666666667
+supported usda dog,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/doge-usda-job-cuts-reductions-force-higher-food-grocery-prices-agricultural-pests-inspections/,0.0,0.8861,-0.8861
+usda dog,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/doge-usda-job-cuts-reductions-force-higher-food-grocery-prices-agricultural-pests-inspections/,0.0,0.7706333333333334,-0.7706333333333334
+funded usda animal,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/doge-usda-job-cuts-reductions-force-higher-food-grocery-prices-agricultural-pests-inspections/,0.0,0.8918666666666667,-0.8918666666666667
+deploys dogs trained,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/doge-usda-job-cuts-reductions-force-higher-food-grocery-prices-agricultural-pests-inspections/,0.0,0.9099,-0.9099
+trans rights trump,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/trump-tells-doj-to-prosecute-teachers-who-unlawfully-support-trans-or-nonbinary-students/,0.0,0.8721,-0.8721
+schooling trump directs,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/trump-tells-doj-to-prosecute-teachers-who-unlawfully-support-trans-or-nonbinary-students/,0.0,0.8774333333333333,-0.8774333333333333
+saying transgender operations,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/trump-tells-doj-to-prosecute-teachers-who-unlawfully-support-trans-or-nonbinary-students/,0.0,0.9262666666666667,-0.9262666666666667
+sex banning trans,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/trump-tells-doj-to-prosecute-teachers-who-unlawfully-support-trans-or-nonbinary-students/,0.0,0.8649999999999999,-0.8649999999999999
+schooling trump,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/01/trump-tells-doj-to-prosecute-teachers-who-unlawfully-support-trans-or-nonbinary-students/,0.0,0.7685333333333334,-0.7685333333333334
+le pen conviction,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/,0.0,0.8378666666666666,-0.8378666666666666
+le pen convicted,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/,0.0,0.8447999999999999,-0.8447999999999999
+conviction le pen,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/,0.0,0.8603,-0.8603
+le pen verdict,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/,0.0,0.8533,-0.8533
+le pen reportedly,left,https://www.motherjones.com,https://www.motherjones.com/politics/2025/03/france-le-pen-trump-corruption-conviction/,0.0,0.8755333333333333,-0.8755333333333333
+days discourse cynics,left,https://www.thenation.com,https://www.thenation.com/article/society/last-days-discourse-electronic-plebescite/,0.0,0.8768666666666668,-0.8768666666666668
+days discourse wallowing,left,https://www.thenation.com,https://www.thenation.com/article/society/last-days-discourse-electronic-plebescite/,0.0,0.9126666666666666,-0.9126666666666666
+column days discourse,left,https://www.thenation.com,https://www.thenation.com/article/society/last-days-discourse-electronic-plebescite/,0.0,0.8779,-0.8779
+days discourse,left,https://www.thenation.com,https://www.thenation.com/article/society/last-days-discourse-electronic-plebescite/,0.0,0.7997333333333333,-0.7997333333333333
+days discourse agreed,left,https://www.thenation.com,https://www.thenation.com/article/society/last-days-discourse-electronic-plebescite/,0.0,0.8924333333333333,-0.8924333333333333
+musk machinations trump,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-musk-democrats-fight-back/,0.0,0.9248,-0.9248
+evacuation usaid,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-musk-democrats-fight-back/,0.0,0.7743333333333333,-0.7743333333333333
+panicking elon musk,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-musk-democrats-fight-back/,0.0,0.8537,-0.8537
+usaid headquarters dispiriting,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-musk-democrats-fight-back/,0.0,0.8329,-0.8329
+away actions democrats,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-musk-democrats-fight-back/,0.0,0.8278,-0.8278
+sidelines governor newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/smoke-signals/,0.0,0.8847666666666667,-0.8847666666666667
+sidelines california governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/smoke-signals/,0.0,0.8452333333333334,-0.8452333333333334
+sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/smoke-signals/,0.0,0.7462,-0.7462
+time sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/smoke-signals/,0.0,0.8418333333333333,-0.8418333333333333
+governor newsom time,left,https://www.thenation.com,https://www.thenation.com/article/politics/smoke-signals/,0.0,0.9028333333333333,-0.9028333333333333
+greenpeace verdict energy,left,https://www.thenation.com,https://www.thenation.com/article/environment/greenpeace-civil-society/,0.0,0.8173333333333334,-0.8173333333333334
+claimed greenpeace,left,https://www.thenation.com,https://www.thenation.com/article/environment/greenpeace-civil-society/,0.0,0.7655,-0.7655
+greenpeace making case,left,https://www.thenation.com,https://www.thenation.com/article/environment/greenpeace-civil-society/,0.0,0.8315,-0.8315
+case greenpeace following,left,https://www.thenation.com,https://www.thenation.com/article/environment/greenpeace-civil-society/,0.0,0.9298333333333333,-0.9298333333333333
+arguing case greenpeace,left,https://www.thenation.com,https://www.thenation.com/article/environment/greenpeace-civil-society/,0.0,0.8437,-0.8437
+nation monthly newsletter,left,https://www.thenation.com,https://www.thenation.com/article/politics/party-under-country-dissecting-the-democratic-malaise/,0.0,0.8936999999999999,-0.8936999999999999
+nation weekly newsletter,left,https://www.thenation.com,https://www.thenation.com/article/politics/party-under-country-dissecting-the-democratic-malaise/,0.0,0.9015666666666666,-0.9015666666666666
+support nation journalism,left,https://www.thenation.com,https://www.thenation.com/article/politics/party-under-country-dissecting-the-democratic-malaise/,0.0,0.9071000000000001,-0.9071000000000001
+newsletter repro nation,left,https://www.thenation.com,https://www.thenation.com/article/politics/party-under-country-dissecting-the-democratic-malaise/,0.0,0.8669666666666668,-0.8669666666666668
+issue subscribe nation,left,https://www.thenation.com,https://www.thenation.com/article/politics/party-under-country-dissecting-the-democratic-malaise/,0.0,0.8841666666666667,-0.8841666666666667
+germinares cardero céspedes,left,https://www.thenation.com,https://www.thenation.com/article/world/cuba-embargo-sanctions-scarcity-rubio/,0.0,0.8817333333333334,-0.8817333333333334
+germinares cardero,left,https://www.thenation.com,https://www.thenation.com/article/world/cuba-embargo-sanctions-scarcity-rubio/,0.0,0.8320333333333334,-0.8320333333333334
+cardero céspedes suffering,left,https://www.thenation.com,https://www.thenation.com/article/world/cuba-embargo-sanctions-scarcity-rubio/,0.0,0.8923333333333333,-0.8923333333333333
+cardero céspedes lives,left,https://www.thenation.com,https://www.thenation.com/article/world/cuba-embargo-sanctions-scarcity-rubio/,0.0,0.8862333333333333,-0.8862333333333333
+cardero céspedes afterward,left,https://www.thenation.com,https://www.thenation.com/article/world/cuba-embargo-sanctions-scarcity-rubio/,0.0,0.8863333333333333,-0.8863333333333333
+airplane father smoking,left,https://www.thenation.com,https://www.thenation.com/article/society/airline-deregulation-carter-neoliberalism/,0.0,0.8777666666666667,-0.8777666666666667
+cigarette airplane father,left,https://www.thenation.com,https://www.thenation.com/article/society/airline-deregulation-carter-neoliberalism/,0.0,0.8831333333333333,-0.8831333333333333
+cigarette airplane,left,https://www.thenation.com,https://www.thenation.com/article/society/airline-deregulation-carter-neoliberalism/,0.0,0.7876333333333333,-0.7876333333333333
+cigarette lying,left,https://www.thenation.com,https://www.thenation.com/article/society/airline-deregulation-carter-neoliberalism/,0.0,0.7566333333333333,-0.7566333333333333
+airplanes bars smoking,left,https://www.thenation.com,https://www.thenation.com/article/society/airline-deregulation-carter-neoliberalism/,0.0,0.8654999999999999,-0.8654999999999999
+feminism reeves,left,https://www.thenation.com,https://www.thenation.com/article/society/richard-reeves-profile/,0.0,0.7763666666666666,-0.7763666666666666
+gender equality reeves,left,https://www.thenation.com,https://www.thenation.com/article/society/richard-reeves-profile/,0.0,0.8587666666666666,-0.8587666666666666
+feminists reeves believes,left,https://www.thenation.com,https://www.thenation.com/article/society/richard-reeves-profile/,0.0,0.8899333333333334,-0.8899333333333334
+feminists reeves,left,https://www.thenation.com,https://www.thenation.com/article/society/richard-reeves-profile/,0.0,0.7708333333333334,-0.7708333333333334
+feminism reeves interpreted,left,https://www.thenation.com,https://www.thenation.com/article/society/richard-reeves-profile/,0.0,0.8896333333333333,-0.8896333333333333
+arrested ice ozturk,left,https://www.thenation.com,https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/,0.0,0.8555333333333334,-0.8555333333333334
+ozturk arrested ice,left,https://www.thenation.com,https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/,0.0,0.8392333333333334,-0.8392333333333334
+ozturk detention,left,https://www.thenation.com,https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/,0.0,0.7172666666666667,-0.7172666666666667
+reason ozturk detention,left,https://www.thenation.com,https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/,0.0,0.8586,-0.8586
+ozturk arrested,left,https://www.thenation.com,https://www.thenation.com/article/activism/rumeysa-ozturk-kaveh-akbar/,0.0,0.7372666666666667,-0.7372666666666667
+leader philippines guilty,left,https://www.thenation.com,https://www.thenation.com/article/world/european-union-liberal-democracy/,-0.5,0.8904,-0.8904
+duterte accused,left,https://www.thenation.com,https://www.thenation.com/article/world/european-union-liberal-democracy/,0.0,0.7713666666666666,-0.7713666666666666
+europe champion liberal,left,https://www.thenation.com,https://www.thenation.com/article/world/european-union-liberal-democracy/,0.0,0.8371,-0.8371
+duterte accused threatening,left,https://www.thenation.com,https://www.thenation.com/article/world/european-union-liberal-democracy/,0.0,0.8492000000000001,-0.8492000000000001
+philippines guilty,left,https://www.thenation.com,https://www.thenation.com/article/world/european-union-liberal-democracy/,-0.5,0.7645,-0.7645
+governor gavin newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/california-newsom-sidelines-trump/,0.0,0.8826666666666666,-0.8826666666666666
+politics governor newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/california-newsom-sidelines-trump/,0.0,0.9093333333333332,-0.9093333333333332
+california governor gavin,left,https://www.thenation.com,https://www.thenation.com/article/politics/california-newsom-sidelines-trump/,0.0,0.9089999999999999,-0.9089999999999999
+election california governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/california-newsom-sidelines-trump/,0.0,0.8903666666666666,-0.8903666666666666
+governor newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/california-newsom-sidelines-trump/,0.0,0.8139,-0.8139
+california free speech,left,https://www.thenation.com,https://www.thenation.com/article/activism/new-free-speech-movement/,0.4,0.8389333333333333,-0.8389333333333333
+free speech movement,left,https://www.thenation.com,https://www.thenation.com/article/activism/new-free-speech-movement/,0.4,0.9107,-0.9107
+threatens free speech,left,https://www.thenation.com,https://www.thenation.com/article/activism/new-free-speech-movement/,0.4,0.8444666666666666,-0.8444666666666666
+free speech stood,left,https://www.thenation.com,https://www.thenation.com/article/activism/new-free-speech-movement/,0.4,0.8996666666666666,-0.8996666666666666
+crisis free speech,left,https://www.thenation.com,https://www.thenation.com/article/activism/new-free-speech-movement/,0.4,0.8443999999999999,-0.8443999999999999
+trump controversial rally,left,https://www.thenation.com,https://www.thenation.com/article/society/black-maga-supporters-racism/,0.55,0.8155333333333333,-0.8155333333333333
+trump maga white,left,https://www.thenation.com,https://www.thenation.com/article/society/black-maga-supporters-racism/,0.0,0.9006333333333334,-0.9006333333333334
+trump playlist rally,left,https://www.thenation.com,https://www.thenation.com/article/society/black-maga-supporters-racism/,0.0,0.8687999999999999,-0.8687999999999999
+song played trump,left,https://www.thenation.com,https://www.thenation.com/article/society/black-maga-supporters-racism/,0.0,0.8317,-0.8317
+rally confederate white,left,https://www.thenation.com,https://www.thenation.com/article/society/black-maga-supporters-racism/,0.0,0.9005666666666666,-0.9005666666666666
+experiencing homelessness america,left,https://www.thenation.com,https://www.thenation.com/article/culture/goldstone-there-is-no-place-working-homeless-qa/,0.0,0.9503666666666666,-0.9503666666666666
+homelessness georgia atlanta,left,https://www.thenation.com,https://www.thenation.com/article/culture/goldstone-there-is-no-place-working-homeless-qa/,0.0,0.8639,-0.8639
+working homeless america,left,https://www.thenation.com,https://www.thenation.com/article/culture/goldstone-there-is-no-place-working-homeless-qa/,0.0,0.9151666666666666,-0.9151666666666666
+homelessness america,left,https://www.thenation.com,https://www.thenation.com/article/culture/goldstone-there-is-no-place-working-homeless-qa/,0.0,0.7756,-0.7756
+housing homelessness,left,https://www.thenation.com,https://www.thenation.com/article/culture/goldstone-there-is-no-place-working-homeless-qa/,0.0,0.7919666666666667,-0.7919666666666667
+confirm age 16,left,https://www.thenation.com,https://www.thenation.com/politics/,0.0,0.8889333333333332,-0.8889333333333332
+journalism unsubscribe,left,https://www.thenation.com,https://www.thenation.com/politics/,0.0,0.7998,-0.7998
+journalism unsubscribe adjust,left,https://www.thenation.com,https://www.thenation.com/politics/,0.0,0.8744999999999999,-0.8744999999999999
+signing confirm age,left,https://www.thenation.com,https://www.thenation.com/politics/,0.0,0.8524666666666666,-0.8524666666666666
+confirm age,left,https://www.thenation.com,https://www.thenation.com/politics/,0.0,0.785,-0.785
+activism tony benn,left,https://www.thenation.com,https://www.thenation.com/article/activism/tony-benn-at-100/,0.0,0.8727666666666667,-0.8727666666666667
+oligarchy tony benn,left,https://www.thenation.com,https://www.thenation.com/article/activism/tony-benn-at-100/,0.0,0.8644333333333334,-0.8644333333333334
+activism tony,left,https://www.thenation.com,https://www.thenation.com/article/activism/tony-benn-at-100/,0.0,0.8017,-0.8017
+benn proud radical,left,https://www.thenation.com,https://www.thenation.com/article/activism/tony-benn-at-100/,0.8,0.8611333333333334,-0.8611333333333334
+tony benn,left,https://www.thenation.com,https://www.thenation.com/article/activism/tony-benn-at-100/,0.0,0.8336333333333333,-0.8336333333333333
+racist senator,left,https://www.thenation.com,https://www.thenation.com/article/politics/cory-booker-senate-record-floor-speech/,0.0,0.7813666666666667,-0.7813666666666667
+notoriously racist senator,left,https://www.thenation.com,https://www.thenation.com/article/politics/cory-booker-senate-record-floor-speech/,0.0,0.9123333333333333,-0.9123333333333333
+racist senator strom,left,https://www.thenation.com,https://www.thenation.com/article/politics/cory-booker-senate-record-floor-speech/,0.0,0.8644333333333334,-0.8644333333333334
+politics cory booker,left,https://www.thenation.com,https://www.thenation.com/article/politics/cory-booker-senate-record-floor-speech/,0.0,0.9091,-0.9091
+black senators spoke,left,https://www.thenation.com,https://www.thenation.com/article/politics/cory-booker-senate-record-floor-speech/,-0.16666666666666666,0.8887,-0.8887
+virginia professors jefferson,left,https://www.thenation.com,https://www.thenation.com/article/society/trump-academic-purge/,0.0,0.9212333333333333,-0.9212333333333333
+jefferson hired europeans,left,https://www.thenation.com,https://www.thenation.com/article/society/trump-academic-purge/,0.0,0.8753666666666667,-0.8753666666666667
+professors jefferson,left,https://www.thenation.com,https://www.thenation.com/article/society/trump-academic-purge/,0.0,0.7966000000000001,-0.7966000000000001
+professors jefferson hired,left,https://www.thenation.com,https://www.thenation.com/article/society/trump-academic-purge/,0.0,0.9117666666666667,-0.9117666666666667
+learning jefferson,left,https://www.thenation.com,https://www.thenation.com/article/society/trump-academic-purge/,0.0,0.7864,-0.7864
+pen verdict french,left,https://www.thenation.com,https://www.thenation.com/article/world/marine-le-pen-france-far-right-democracy/,0.0,0.9113666666666668,-0.9113666666666668
+le pen verdict,left,https://www.thenation.com,https://www.thenation.com/article/world/marine-le-pen-france-far-right-democracy/,0.0,0.8533,-0.8533
+pen candidate france,left,https://www.thenation.com,https://www.thenation.com/article/world/marine-le-pen-france-far-right-democracy/,0.0,0.8593000000000001,-0.8593000000000001
+ruling le pen,left,https://www.thenation.com,https://www.thenation.com/article/world/marine-le-pen-france-far-right-democracy/,0.0,0.8753666666666667,-0.8753666666666667
+stolen le pen,left,https://www.thenation.com,https://www.thenation.com/article/world/marine-le-pen-france-far-right-democracy/,0.0,0.8654666666666667,-0.8654666666666667
+nation monthly newsletter,left,https://www.thenation.com,https://www.thenation.com/article/archive/week-nation-history-what-de-blasio-can-learn-his-model-la-guardia/,0.0,0.8936999999999999,-0.8936999999999999
+nation weekly newsletter,left,https://www.thenation.com,https://www.thenation.com/article/archive/week-nation-history-what-de-blasio-can-learn-his-model-la-guardia/,0.0,0.9015666666666666,-0.9015666666666666
+support nation journalism,left,https://www.thenation.com,https://www.thenation.com/article/archive/week-nation-history-what-de-blasio-can-learn-his-model-la-guardia/,0.0,0.9071000000000001,-0.9071000000000001
+newsletter repro nation,left,https://www.thenation.com,https://www.thenation.com/article/archive/week-nation-history-what-de-blasio-can-learn-his-model-la-guardia/,0.0,0.8669666666666668,-0.8669666666666668
+issue subscribe nation,left,https://www.thenation.com,https://www.thenation.com/article/archive/week-nation-history-what-de-blasio-can-learn-his-model-la-guardia/,0.0,0.8841666666666667,-0.8841666666666667
+dodgers tradition,left,https://www.thenation.com,https://www.thenation.com/article/society/dodgers-trump-white-house-disgrace/,0.0,0.7876666666666666,-0.7876666666666666
+jackie robinson dodgers,left,https://www.thenation.com,https://www.thenation.com/article/society/dodgers-trump-white-house-disgrace/,0.0,0.9114333333333334,-0.9114333333333334
+robinson dodgers,left,https://www.thenation.com,https://www.thenation.com/article/society/dodgers-trump-white-house-disgrace/,0.0,0.8428333333333334,-0.8428333333333334
+celebrate jackie robinson,left,https://www.thenation.com,https://www.thenation.com/article/society/dodgers-trump-white-house-disgrace/,0.0,0.8621,-0.8621
+dodgers tradition visit,left,https://www.thenation.com,https://www.thenation.com/article/society/dodgers-trump-white-house-disgrace/,0.0,0.8815333333333334,-0.8815333333333334
+kamwe hualapai tribe,left,https://www.thenation.com,https://www.thenation.com/article/environment/tribal-nations-arizona-mining/,0.0,0.9306,-0.9306
+hualapai tribe,left,https://www.thenation.com,https://www.thenation.com/article/environment/tribal-nations-arizona-mining/,0.0,0.8339333333333334,-0.8339333333333334
+tribe hualapai,left,https://www.thenation.com,https://www.thenation.com/article/environment/tribal-nations-arizona-mining/,0.0,0.8362333333333334,-0.8362333333333334
+hualapai tribe patiently,left,https://www.thenation.com,https://www.thenation.com/article/environment/tribal-nations-arizona-mining/,0.0,0.9092666666666668,-0.9092666666666668
+hualapai land,left,https://www.thenation.com,https://www.thenation.com/article/environment/tribal-nations-arizona-mining/,0.0,0.7878,-0.7878
+don trump gaza,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-gaza-fascism/,0.0,0.8676666666666666,-0.8676666666666666
+mahmoud khalil activist,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-gaza-fascism/,0.0,0.9189666666666666,-0.9189666666666666
+trump gaza,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-gaza-fascism/,0.0,0.7183333333333333,-0.7183333333333333
+trump gaza fascism,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-gaza-fascism/,0.0,0.8631666666666667,-0.8631666666666667
+palestinian american,left,https://www.thenation.com,https://www.thenation.com/article/politics/trump-gaza-fascism/,0.0,0.7680666666666666,-0.7680666666666666
+sidelines governor newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/loot-hauley/,0.0,0.8847666666666667,-0.8847666666666667
+sidelines california governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/loot-hauley/,0.0,0.8452333333333334,-0.8452333333333334
+sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/loot-hauley/,0.0,0.7462,-0.7462
+time sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/loot-hauley/,0.0,0.8418333333333333,-0.8418333333333333
+governor newsom time,left,https://www.thenation.com,https://www.thenation.com/article/politics/loot-hauley/,0.0,0.9028333333333333,-0.9028333333333333
+stephen miller cruel,left,https://www.thenation.com,https://www.thenation.com/article/politics/stephen-miller-hatemonger-biography/,-1.0,0.8621,-0.8621
+hatemonger stephen miller,left,https://www.thenation.com,https://www.thenation.com/article/politics/stephen-miller-hatemonger-biography/,0.0,0.8551000000000001,-0.8551000000000001
+biography miller hatemonger,left,https://www.thenation.com,https://www.thenation.com/article/politics/stephen-miller-hatemonger-biography/,0.0,0.8641,-0.8641
+present stephen miller,left,https://www.thenation.com,https://www.thenation.com/article/politics/stephen-miller-hatemonger-biography/,0.0,0.8929999999999999,-0.8929999999999999
+stephen miller white,left,https://www.thenation.com,https://www.thenation.com/article/politics/stephen-miller-hatemonger-biography/,0.0,0.9123666666666667,-0.9123666666666667
+political imagination paris,left,https://www.thenation.com,https://www.thenation.com/article/culture/kristin-ross-commune-form-zad/,0.0,0.8936333333333333,-0.8936333333333333
+class politics confront,left,https://www.thenation.com,https://www.thenation.com/article/culture/kristin-ross-commune-form-zad/,0.0,0.8839333333333332,-0.8839333333333332
+paris commune kristin,left,https://www.thenation.com,https://www.thenation.com/article/culture/kristin-ross-commune-form-zad/,0.0,0.8502333333333333,-0.8502333333333333
+marx paris,left,https://www.thenation.com,https://www.thenation.com/article/culture/kristin-ross-commune-form-zad/,0.0,0.8631333333333333,-0.8631333333333333
+class politics,left,https://www.thenation.com,https://www.thenation.com/article/culture/kristin-ross-commune-form-zad/,0.0,0.7894666666666666,-0.7894666666666666
+gaza safely break,left,https://www.thenation.com,https://www.thenation.com/article/world/mothers-plea-from-gaza-ramadan-hunger/,0.5,0.8327,-0.8327
+gaza weaponizing hunger,left,https://www.thenation.com,https://www.thenation.com/article/world/mothers-plea-from-gaza-ramadan-hunger/,0.0,0.8389333333333333,-0.8389333333333333
+gaza safely,left,https://www.thenation.com,https://www.thenation.com/article/world/mothers-plea-from-gaza-ramadan-hunger/,0.5,0.7281,-0.7281
+mother plea gaza,left,https://www.thenation.com,https://www.thenation.com/article/world/mothers-plea-from-gaza-ramadan-hunger/,0.0,0.8455,-0.8455
+palestine entirely ramadan,left,https://www.thenation.com,https://www.thenation.com/article/world/mothers-plea-from-gaza-ramadan-hunger/,0.0,0.8694999999999999,-0.8694999999999999
+mickey 17 dystopian,left,https://www.thenation.com,https://www.thenation.com/article/culture/mickey-17-bong-joonho/,0.0,0.8057666666666666,-0.8057666666666666
+scenes mickey 17,left,https://www.thenation.com,https://www.thenation.com/article/culture/mickey-17-bong-joonho/,0.0,0.9133666666666667,-0.9133666666666667
+earth mickey 17,left,https://www.thenation.com,https://www.thenation.com/article/culture/mickey-17-bong-joonho/,0.0,0.9134333333333333,-0.9134333333333333
+mickey 17 introduces,left,https://www.thenation.com,https://www.thenation.com/article/culture/mickey-17-bong-joonho/,0.0,0.8684333333333333,-0.8684333333333333
+mickey cosmic purgatory,left,https://www.thenation.com,https://www.thenation.com/article/culture/mickey-17-bong-joonho/,0.0,0.8896000000000001,-0.8896000000000001
+larissa fasthorse comedy,left,https://www.thenation.com,https://www.thenation.com/article/culture/theatre-broadway-native-americans-representation/,0.0,0.8830333333333332,-0.8830333333333332
+audiences larissa fasthorse,left,https://www.thenation.com,https://www.thenation.com/article/culture/theatre-broadway-native-americans-representation/,0.0,0.8895333333333334,-0.8895333333333334
+fasthorse comedy fake,left,https://www.thenation.com,https://www.thenation.com/article/culture/theatre-broadway-native-americans-representation/,-0.5,0.8874,-0.8874
+comedy fake make,left,https://www.thenation.com,https://www.thenation.com/article/culture/theatre-broadway-native-americans-representation/,-0.5,0.9036666666666666,-0.9036666666666666
+play fake make,left,https://www.thenation.com,https://www.thenation.com/article/culture/theatre-broadway-native-americans-representation/,-0.5,0.9464333333333333,-0.9464333333333333
+sidelines governor newsom,left,https://www.thenation.com,https://www.thenation.com/article/politics/court-detat/,0.0,0.8847666666666667,-0.8847666666666667
+sidelines california governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/court-detat/,0.0,0.8452333333333334,-0.8452333333333334
+sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/court-detat/,0.0,0.7462,-0.7462
+time sidelines governor,left,https://www.thenation.com,https://www.thenation.com/article/politics/court-detat/,0.0,0.8418333333333333,-0.8418333333333333
+governor newsom time,left,https://www.thenation.com,https://www.thenation.com/article/politics/court-detat/,0.0,0.9028333333333333,-0.9028333333333333
+backing texans educational,left,https://www.propublica.org,https://www.propublica.org/article/texas-cypress-fairbanks-removed-textbook-chapters,0.25,0.8958333333333334,-0.8958333333333334
+wokeified curriculum texas,left,https://www.propublica.org,https://www.propublica.org/article/texas-cypress-fairbanks-removed-textbook-chapters,0.0,0.8982333333333333,-0.8982333333333333
+use texas classrooms,left,https://www.propublica.org,https://www.propublica.org/article/texas-cypress-fairbanks-removed-textbook-chapters,0.0,0.8967666666666667,-0.8967666666666667
+conservative board education,left,https://www.propublica.org,https://www.propublica.org/article/texas-cypress-fairbanks-removed-textbook-chapters,0.0,0.8614333333333333,-0.8614333333333333
+rejected textbooks republicans,left,https://www.propublica.org,https://www.propublica.org/article/texas-cypress-fairbanks-removed-textbook-chapters,0.0,0.8771333333333334,-0.8771333333333334
+microsoft white house,left,https://www.propublica.org,https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft,0.0,0.8662000000000001,-0.8662000000000001
+propublica nonprofit,left,https://www.propublica.org,https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft,0.0,0.8105333333333333,-0.8105333333333333
+taxpayer white house,left,https://www.propublica.org,https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft,0.0,0.8723333333333333,-0.8723333333333333
+starlink donations microsoft,left,https://www.propublica.org,https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft,0.0,0.8767,-0.8767
+white house donation,left,https://www.propublica.org,https://www.propublica.org/article/elon-musk-starlink-trump-white-house-spacex-microsoft,0.0,0.854,-0.854
+texas lawsuit paxton,left,https://www.propublica.org,https://www.propublica.org/article/ken-paxton-corruption-probe-justice-department-senate-race,0.0,0.8963333333333333,-0.8963333333333333
+vindicating embattled republican,left,https://www.propublica.org,https://www.propublica.org/article/ken-paxton-corruption-probe-justice-department-senate-race,0.0,0.8527333333333332,-0.8527333333333332
+federal investigation paxton,left,https://www.propublica.org,https://www.propublica.org/article/ken-paxton-corruption-probe-justice-department-senate-race,0.0,0.9228999999999999,-0.9228999999999999
+party paxton attorney,left,https://www.propublica.org,https://www.propublica.org/article/ken-paxton-corruption-probe-justice-department-senate-race,0.0,0.8912,-0.8912
+campaign federal investigation,left,https://www.propublica.org,https://www.propublica.org/article/ken-paxton-corruption-probe-justice-department-senate-race,0.0,0.8923,-0.8923
+returned nepal sculpture,left,https://www.propublica.org,https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf,0.0,0.8935666666666666,-0.8935666666666666
+returned sculpture nepal,left,https://www.propublica.org,https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf,0.0,0.8684333333333333,-0.8684333333333333
+nepal sculpture collection,left,https://www.propublica.org,https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf,0.0,0.9005,-0.9005
+nepal sculpture,left,https://www.propublica.org,https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf,0.0,0.8083666666666667,-0.8083666666666667
+sculpture nepal,left,https://www.propublica.org,https://www.propublica.org/article/art-institute-chicago-returned-buddha-statue-nepal-marilynn-alsdorf,0.0,0.8121,-0.8121
+propublica nypd,left,https://www.propublica.org,https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse,0.0,0.7971666666666667,-0.7971666666666667
+mayor propublica,left,https://www.propublica.org,https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse,0.0,0.7546666666666667,-0.7546666666666667
+propublica mayor,left,https://www.propublica.org,https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse,0.0,0.7561333333333332,-0.7561333333333332
+propublica nypd team,left,https://www.propublica.org,https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse,0.0,0.8779,-0.8779
+mayor propublica mayor,left,https://www.propublica.org,https://www.propublica.org/article/nyc-nypd-community-response-team-eric-adams-police-abuse,0.0,0.9612333333333334,-0.9612333333333334
+vaccine informed,left,https://www.propublica.org,https://www.propublica.org/article/measles-vaccine-rfk-cdc-report,0.0,0.7634666666666666,-0.7634666666666666
+vaccines propublica,left,https://www.propublica.org,https://www.propublica.org/article/measles-vaccine-rfk-cdc-report,0.0,0.8096,-0.8096
+associated vaccines propublica,left,https://www.propublica.org,https://www.propublica.org/article/measles-vaccine-rfk-cdc-report,0.0,0.9123,-0.9123
+believes decision vaccinate,left,https://www.propublica.org,https://www.propublica.org/article/measles-vaccine-rfk-cdc-report,0.0,0.8919,-0.8919
+options vaccine informed,left,https://www.propublica.org,https://www.propublica.org/article/measles-vaccine-rfk-cdc-report,0.0,0.9514333333333335,-0.9514333333333335
+cases involving kushner,left,https://www.propublica.org,https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer,0.0,0.8437,-0.8437
+kushners landlords,left,https://www.propublica.org,https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer,0.0,0.7896666666666666,-0.7896666666666666
+involving kushner,left,https://www.propublica.org,https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer,0.0,0.7613333333333333,-0.7613333333333333
+lawyer helped kushners,left,https://www.propublica.org,https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer,0.0,0.8321333333333333,-0.8321333333333333
+kushner executives,left,https://www.propublica.org,https://www.propublica.org/article/kushner-kushnerville-apartments-tenants-lawsuits-andrew-rabinowitz-lawyer,0.0,0.7875,-0.7875
+utah therapists licenses,left,https://www.propublica.org,https://www.propublica.org/article/utah-life-coaches-mental-health-therapy-law,0.0,0.8889999999999999,-0.8889999999999999
+requiring life coaches,left,https://www.propublica.org,https://www.propublica.org/article/utah-life-coaches-mental-health-therapy-law,0.0,0.8955333333333333,-0.8955333333333333
+life coaches utah,left,https://www.propublica.org,https://www.propublica.org/article/utah-life-coaches-mental-health-therapy-law,0.0,0.8834333333333334,-0.8834333333333334
+life coaches licensed,left,https://www.propublica.org,https://www.propublica.org/article/utah-life-coaches-mental-health-therapy-law,0.0,0.9054333333333333,-0.9054333333333333
+utah life coaches,left,https://www.propublica.org,https://www.propublica.org/article/utah-life-coaches-mental-health-therapy-law,0.0,0.8452999999999999,-0.8452999999999999
+identify shortcomings agency,left,https://www.propublica.org,https://www.propublica.org/article/doge-government-waste-fraud-approach,0.0,0.908,-0.908
+agency obscene spending,left,https://www.propublica.org,https://www.propublica.org/article/doge-government-waste-fraud-approach,0.0,0.9133,-0.9133
+shortcomings agency ones,left,https://www.propublica.org,https://www.propublica.org/article/doge-government-waste-fraud-approach,0.0,0.9168333333333333,-0.9168333333333333
+shortcomings agency,left,https://www.propublica.org,https://www.propublica.org/article/doge-government-waste-fraud-approach,0.0,0.8111666666666667,-0.8111666666666667
+agency spends staggering,left,https://www.propublica.org,https://www.propublica.org/article/doge-government-waste-fraud-approach,0.0,0.8592666666666666,-0.8592666666666666
+gop lawmakers directed,left,https://www.propublica.org,https://www.propublica.org/article/north-carolina-legislature-power-grab-sexual-abuse-survivors,0.0,0.9019666666666667,-0.9019666666666667
+funding sexual assault,left,https://www.propublica.org,https://www.propublica.org/article/north-carolina-legislature-power-grab-sexual-abuse-survivors,0.5,0.8672333333333334,-0.8672333333333334
+favoritism gop lawmakers,left,https://www.propublica.org,https://www.propublica.org/article/north-carolina-legislature-power-grab-sexual-abuse-survivors,0.0,0.8618333333333333,-0.8618333333333333
+victims away democratic,left,https://www.propublica.org,https://www.propublica.org/article/north-carolina-legislature-power-grab-sexual-abuse-survivors,0.0,0.8637,-0.8637
+churches reduced funding,left,https://www.propublica.org,https://www.propublica.org/article/north-carolina-legislature-power-grab-sexual-abuse-survivors,0.0,0.8618666666666667,-0.8618666666666667
+wisconsin campaign finance,left,https://www.propublica.org,https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk,0.0,0.8493,-0.8493
+weakening wisconsin campaign,left,https://www.propublica.org,https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk,0.0,0.8971,-0.8971
+wisconsin campaign,left,https://www.propublica.org,https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk,0.0,0.8142999999999999,-0.8142999999999999
+election wisconsin said,left,https://www.propublica.org,https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk,0.0,0.9143,-0.9143
+debate wisconsin,left,https://www.propublica.org,https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk,0.0,0.7264666666666667,-0.7264666666666667
+athletes disclose nil,left,https://www.propublica.org,https://www.propublica.org/article/university-illinois-nil-basketball-college-sports-ncaa-endorsements-disclosures,0.0,0.8313666666666667,-0.8313666666666667
+nil college athletes,left,https://www.propublica.org,https://www.propublica.org/article/university-illinois-nil-basketball-college-sports-ncaa-endorsements-disclosures,0.0,0.8519333333333333,-0.8519333333333333
+disclosure student athlete,left,https://www.propublica.org,https://www.propublica.org/article/university-illinois-nil-basketball-college-sports-ncaa-endorsements-disclosures,0.0,0.8381,-0.8381
+nil deals athletes,left,https://www.propublica.org,https://www.propublica.org/article/university-illinois-nil-basketball-college-sports-ncaa-endorsements-disclosures,0.0,0.7882000000000001,-0.7882000000000001
+athlete nil information,left,https://www.propublica.org,https://www.propublica.org/article/university-illinois-nil-basketball-college-sports-ncaa-endorsements-disclosures,0.0,0.8402666666666666,-0.8402666666666666
+television exoneration edgar,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-minneapolis-wrongful-conviction-barrientos-quintana,0.0,0.8535,-0.8535
+involvement television exoneration,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-minneapolis-wrongful-conviction-barrientos-quintana,0.0,0.8948999999999999,-0.8948999999999999
+barrientos quintana crime,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-minneapolis-wrongful-conviction-barrientos-quintana,0.0,0.8911666666666666,-0.8911666666666666
+crime barrientos quintana,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-minneapolis-wrongful-conviction-barrientos-quintana,0.0,0.8826333333333333,-0.8826333333333333
+murder investigation,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-minneapolis-wrongful-conviction-barrientos-quintana,0.0,0.8134,-0.8134
+utah ex therapist,left,https://www.propublica.org,https://www.propublica.org/article/scott-owen-utah-therapist-sexual-abuse-prison-sentence,0.0,0.8348666666666666,-0.8348666666666666
+sexually abused sam,left,https://www.propublica.org,https://www.propublica.org/article/scott-owen-utah-therapist-sexual-abuse-prison-sentence,0.5,0.8920666666666667,-0.8920666666666667
+therapist scott owen,left,https://www.propublica.org,https://www.propublica.org/article/scott-owen-utah-therapist-sexual-abuse-prison-sentence,0.0,0.8690333333333333,-0.8690333333333333
+ex therapist scott,left,https://www.propublica.org,https://www.propublica.org/article/scott-owen-utah-therapist-sexual-abuse-prison-sentence,0.0,0.8882333333333333,-0.8882333333333333
+owen sexually abused,left,https://www.propublica.org,https://www.propublica.org/article/scott-owen-utah-therapist-sexual-abuse-prison-sentence,0.5,0.8489666666666666,-0.8489666666666666
+infant formula safest,left,https://www.propublica.org,https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say,0.0,0.8442999999999999,-0.8442999999999999
+oversight infant formula,left,https://www.propublica.org,https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say,0.0,0.8857333333333334,-0.8857333333333334
+oversees baby formula,left,https://www.propublica.org,https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say,0.0,0.8792,-0.8792
+swabbed infant formula,left,https://www.propublica.org,https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say,0.0,0.8778333333333334,-0.8778333333333334
+baby formula factory,left,https://www.propublica.org,https://www.propublica.org/article/baby-formula-abbot-sturgis-michigan-shortages-unsanitary-conditions-workers-say,0.0,0.8649999999999999,-0.8649999999999999
+investigative reporters covered,left,https://www.propublica.org,https://www.propublica.org/article/second-trump-presidency-issues-contact,0.0,0.9527333333333333,-0.9527333333333333
+reporter exploring federal,left,https://www.propublica.org,https://www.propublica.org/article/second-trump-presidency-issues-contact,0.0,0.8503666666666666,-0.8503666666666666
+investigative reporters,left,https://www.propublica.org,https://www.propublica.org/article/second-trump-presidency-issues-contact,0.0,0.7994,-0.7994
+investigative journalism,left,https://www.propublica.org,https://www.propublica.org/article/second-trump-presidency-issues-contact,0.0,0.8626999999999999,-0.8626999999999999
+hitting rigorous journalism,left,https://www.propublica.org,https://www.propublica.org/article/second-trump-presidency-issues-contact,0.0,0.9069666666666666,-0.9069666666666666
+delays criminal cases,left,https://www.propublica.org,https://www.propublica.org/article/alaska-supreme-court-limits-pretrial-delays,-0.4,0.8612333333333333,-0.8612333333333333
+criminal cases postponed,left,https://www.propublica.org,https://www.propublica.org/article/alaska-supreme-court-limits-pretrial-delays,-0.4,0.8670666666666667,-0.8670666666666667
+delays caused attorneys,left,https://www.propublica.org,https://www.propublica.org/article/alaska-supreme-court-limits-pretrial-delays,0.0,0.8129,-0.8129
+criminal defendants wait,left,https://www.propublica.org,https://www.propublica.org/article/alaska-supreme-court-limits-pretrial-delays,-0.4,0.8985666666666666,-0.8985666666666666
+alaska supreme court,left,https://www.propublica.org,https://www.propublica.org/article/alaska-supreme-court-limits-pretrial-delays,0.0,0.8602666666666666,-0.8602666666666666
+deported flight attendants,left,https://www.propublica.org,https://www.propublica.org/article/inside-ice-air-deportation-flights,0.0,0.8731666666666666,-0.8731666666666666
+restraint globalx deportation,left,https://www.propublica.org,https://www.propublica.org/article/inside-ice-air-deportation-flights,0.0,0.8895666666666667,-0.8895666666666667
+globalx deportation plane,left,https://www.propublica.org,https://www.propublica.org/article/inside-ice-air-deportation-flights,0.0,0.9248333333333333,-0.9248333333333333
+detainees helped plane,left,https://www.propublica.org,https://www.propublica.org/article/inside-ice-air-deportation-flights,0.0,0.8606333333333334,-0.8606333333333334
+attendants responsibility detainees,left,https://www.propublica.org,https://www.propublica.org/article/inside-ice-air-deportation-flights,0.0,0.8762,-0.8762
+national debt trump,left,https://www.propublica.org,https://www.propublica.org/article/national-debt-trump,0.0,0.8978666666666667,-0.8978666666666667
+debt increased trump,left,https://www.propublica.org,https://www.propublica.org/article/national-debt-trump,0.0,0.8446666666666666,-0.8446666666666666
+debt trump,left,https://www.propublica.org,https://www.propublica.org/article/national-debt-trump,0.0,0.6963666666666667,-0.6963666666666667
+debt trump unilaterally,left,https://www.propublica.org,https://www.propublica.org/article/national-debt-trump,-0.5,0.8298333333333333,-0.8298333333333333
+financed debt trump,left,https://www.propublica.org,https://www.propublica.org/article/national-debt-trump,0.0,0.8717666666666667,-0.8717666666666667
+propublica housing agency,left,https://www.propublica.org,https://www.propublica.org/article/hud-cryptocurrency-blockchain-democrats-maxine-waters,0.0,0.8844,-0.8844
+reporting propublica housing,left,https://www.propublica.org,https://www.propublica.org/article/hud-cryptocurrency-blockchain-democrats-maxine-waters,0.0,0.9007666666666667,-0.9007666666666667
+told propublica department,left,https://www.propublica.org,https://www.propublica.org/article/hud-cryptocurrency-blockchain-democrats-maxine-waters,0.0,0.9201666666666667,-0.9201666666666667
+housing agency recently,left,https://www.propublica.org,https://www.propublica.org/article/hud-cryptocurrency-blockchain-democrats-maxine-waters,0.0,0.8563333333333333,-0.8563333333333333
+unregulated security housing,left,https://www.propublica.org,https://www.propublica.org/article/hud-cryptocurrency-blockchain-democrats-maxine-waters,0.0,0.8379333333333333,-0.8379333333333333
+police reality television,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-dallas-memphis-mobile,0.0,0.8545333333333334,-0.8545333333333334
+crime reality television,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-dallas-memphis-mobile,0.0,0.856,-0.856
+propublica reported detectives,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-dallas-memphis-mobile,0.0,0.8304333333333332,-0.8304333333333332
+police reality,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-dallas-memphis-mobile,0.0,0.7278666666666668,-0.7278666666666668
+police popular reality,left,https://www.propublica.org,https://www.propublica.org/article/first-48-reality-tv-police-dallas-memphis-mobile,0.6,0.8561666666666667,-0.8561666666666667
+american defense spending,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/u-s-wants-nato-and-canada-to-spend-5-percent-of-gdp-on-defense/,0.0,0.9151333333333334,0.9151333333333334
+defense spending european,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/u-s-wants-nato-and-canada-to-spend-5-percent-of-gdp-on-defense/,0.0,0.8523999999999999,0.8523999999999999
+gdp military spending,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/u-s-wants-nato-and-canada-to-spend-5-percent-of-gdp-on-defense/,-0.1,0.9178000000000001,0.9178000000000001
+defense spending rubio,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/u-s-wants-nato-and-canada-to-spend-5-percent-of-gdp-on-defense/,0.0,0.8612333333333333,0.8612333333333333
+billion military spending,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/u-s-wants-nato-and-canada-to-spend-5-percent-of-gdp-on-defense/,-0.1,0.9277666666666667,0.9277666666666667
+title ix prohibits,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/#disqus_thread,0.0,0.8950666666666667,0.8950666666666667
+ix prohibits discrimination,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/#disqus_thread,0.0,0.8983,0.8983
+violated title ix,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/#disqus_thread,0.0,0.8801,0.8801
+title ix protect,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/#disqus_thread,0.0,0.9057,0.9057
+enforcing title ix,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/#disqus_thread,0.0,0.8936999999999999,0.8936999999999999
+transgender policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/,0.0,0.7529666666666667,0.7529666666666667
+pro transgender policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/,0.0,0.9526333333333333,0.9526333333333333
+transgender surgeries inmates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/,0.0,0.8694333333333333,0.8694333333333333
+transgender policies catering,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/,0.0,0.8314,0.8314
+surgeries inmates walkout,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/,0.0,0.8715,0.8715
+powell cut rates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/trump-urges-fed-chair-jerome-powell-to-cut-interest-rates/,0.0,0.8540000000000001,0.8540000000000001
+powell lower rates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/trump-urges-fed-chair-jerome-powell-to-cut-interest-rates/,0.0,0.872,0.872
+trump lowering rates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/trump-urges-fed-chair-jerome-powell-to-cut-interest-rates/,0.0,0.8764333333333334,0.8764333333333334
+powell predicted tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/trump-urges-fed-chair-jerome-powell-to-cut-interest-rates/,0.0,0.8474333333333334,0.8474333333333334
+powell slash rates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/trump-urges-fed-chair-jerome-powell-to-cut-interest-rates/,0.0,0.862,0.862
+trade exemptions china,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/trump-eliminates-china-hong-kong-trade-exemptions-combat-illicit-substance-imports/,0.0,0.9058,0.9058
+import duties taxes,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/trump-eliminates-china-hong-kong-trade-exemptions-combat-illicit-substance-imports/,0.0,0.8852666666666668,0.8852666666666668
+tariffs various,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/trump-eliminates-china-hong-kong-trade-exemptions-combat-illicit-substance-imports/,0.0,0.7063333333333333,0.7063333333333333
+sweeping tariff,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/trump-eliminates-china-hong-kong-trade-exemptions-combat-illicit-substance-imports/,0.0,0.7911666666666667,0.7911666666666667
+tariffs various nations,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/trump-eliminates-china-hong-kong-trade-exemptions-combat-illicit-substance-imports/,0.0,0.8714,0.8714
+unlawful ballots ensure,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/north-carolina-appeals-court-rules-over-60k-voters-must-verify-eligibility/#disqus_thread,0.0,0.9264333333333333,0.9264333333333333
+ballots counted ruling,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/north-carolina-appeals-court-rules-over-60k-voters-must-verify-eligibility/#disqus_thread,0.0,0.9167,0.9167
+challenges unlawful ballots,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/north-carolina-appeals-court-rules-over-60k-voters-must-verify-eligibility/#disqus_thread,0.0,0.9003,0.9003
+disenfranchises lawful voters,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/north-carolina-appeals-court-rules-over-60k-voters-must-verify-eligibility/#disqus_thread,0.0,0.8506666666666667,0.8506666666666667
+unlawful ballot,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/north-carolina-appeals-court-rules-over-60k-voters-must-verify-eligibility/#disqus_thread,0.0,0.8092333333333334,0.8092333333333334
+trump recipricol tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/,0.0,0.8537666666666667,0.8537666666666667
+trump faces tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/,0.0,0.8417333333333333,0.8417333333333333
+trump reciprocal tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/,0.0,0.8862333333333333,0.8862333333333333
+pushing tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/,0.0,0.7812333333333333,0.7812333333333333
+trump board tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/,0.0,0.8261,0.8261
+nomination harmeet dhillon,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/republican-sen-lisa-murkowski-voted-against-nomination-harmeet-dhillon/,0.0,0.8256333333333333,0.8256333333333333
+nomination dhillon,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/republican-sen-lisa-murkowski-voted-against-nomination-harmeet-dhillon/,0.0,0.7722333333333333,0.7722333333333333
+voted nomination harmeet,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/republican-sen-lisa-murkowski-voted-against-nomination-harmeet-dhillon/,0.0,0.8878,0.8878
+december nomination dhillon,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/republican-sen-lisa-murkowski-voted-against-nomination-harmeet-dhillon/,0.0,0.8795999999999999,0.8795999999999999
+nomination harmeet,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/republican-sen-lisa-murkowski-voted-against-nomination-harmeet-dhillon/,0.0,0.7750666666666667,0.7750666666666667
+walmart boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/,0.0,0.7806666666666667,0.7806666666666667
+walmart endure boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/,0.0,0.8387666666666668,0.8387666666666668
+organizing walmart boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/,0.0,0.8966666666666666,0.8966666666666666
+walmart boycott begins,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/,0.0,0.8796666666666667,0.8796666666666667
+known amazon boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/,0.0,0.8891,0.8891
+trump recipricol tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/#disqus_thread,0.0,0.8537666666666667,0.8537666666666667
+trump faces tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/#disqus_thread,0.0,0.8417333333333333,0.8417333333333333
+trump reciprocal tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/#disqus_thread,0.0,0.8862333333333333,0.8862333333333333
+pushing tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/#disqus_thread,0.0,0.7812333333333333,0.7812333333333333
+trump board tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/flip-flop-longtime-free-trade-opponent-bernie-sanders-now-calls-trumps-tariffs-unacceptable/#disqus_thread,0.0,0.8261,0.8261
+title ix prohibits,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/,0.0,0.8950666666666667,0.8950666666666667
+ix prohibits discrimination,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/,0.0,0.8983,0.8983
+violated title ix,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/,0.0,0.8801,0.8801
+title ix protect,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/,0.0,0.9057,0.9057
+enforcing title ix,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/education-dept-creates-special-investigations-team-to-handle-staggering-volume-of-title-ix-complaints/,0.0,0.8936999999999999,0.8936999999999999
+walmart boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/#disqus_thread,0.0,0.7806666666666667,0.7806666666666667
+walmart endure boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/#disqus_thread,0.0,0.8387666666666668,0.8387666666666668
+organizing walmart boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/#disqus_thread,0.0,0.8966666666666666,0.8966666666666666
+walmart boycott begins,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/#disqus_thread,0.0,0.8796666666666667,0.8796666666666667
+known amazon boycott,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/woke-backlash-leftists-organize-walmart-boycott-over-dei-rollback/#disqus_thread,0.0,0.8891,0.8891
+hakeem jeffries senate,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/#disqus_thread,0.0,0.8650000000000001,0.8650000000000001
+democrat break jeffries,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/#disqus_thread,0.0,0.8567333333333332,0.8567333333333332
+jeffries senate democrat,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/#disqus_thread,0.0,0.8901333333333333,0.8901333333333333
+jeffries democrat leader,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/#disqus_thread,0.0,0.8806666666666666,0.8806666666666666
+jeffries senate,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/#disqus_thread,0.0,0.7974666666666667,0.7974666666666667
+tariffs wednesday trump,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/,0.0,0.8127333333333334,0.8127333333333334
+january walmart ceo,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/,0.0,0.9422333333333333,0.9422333333333333
+corporate america trump,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/,0.0,0.8568666666666666,0.8568666666666666
+walmart ceo doug,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/,0.0,0.9007333333333333,0.9007333333333333
+walmart ceo,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/,0.0,0.7092333333333333,0.7092333333333333
+china spokesperson mckinsey,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/,0.0,0.8525666666666667,0.8525666666666667
+mckinsey work china,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/,0.0,0.8207,0.8207
+mckinsey china linked,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/,0.0,0.8529,0.8529
+mckinsey china,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/,0.0,0.7622666666666666,0.7622666666666666
+chinese government committee,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/,0.0,0.8639,0.8639
+china spokesperson mckinsey,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/#disqus_thread,0.0,0.8525666666666667,0.8525666666666667
+mckinsey work china,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/#disqus_thread,0.0,0.8207,0.8207
+mckinsey china linked,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/#disqus_thread,0.0,0.8529,0.8529
+mckinsey china,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/#disqus_thread,0.0,0.7622666666666666,0.7622666666666666
+chinese government committee,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/mckinsey-ccp-china-conference/#disqus_thread,0.0,0.8639,0.8639
+fact checkers announced,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/meta-to-shutter-fact-checking-in-the-united-states-monday/#disqus_thread,0.0,0.9155333333333333,0.9155333333333333
+fact checking meta,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/meta-to-shutter-fact-checking-in-the-united-states-monday/#disqus_thread,0.0,0.8734666666666667,0.8734666666666667
+fact checks community,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/meta-to-shutter-fact-checking-in-the-united-states-monday/#disqus_thread,0.0,0.8961666666666667,0.8961666666666667
+community notes meta,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/meta-to-shutter-fact-checking-in-the-united-states-monday/#disqus_thread,0.0,0.854,0.854
+checks community notes,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/meta-to-shutter-fact-checking-in-the-united-states-monday/#disqus_thread,0.0,0.8746333333333333,0.8746333333333333
+washington sanctuary law,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/jim-jordan-investigating-washington-states-dangerous-sanctuary-policies/,0.0,0.9221666666666666,0.9221666666666666
+state sanctuary policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/jim-jordan-investigating-washington-states-dangerous-sanctuary-policies/,0.0,0.9422,0.9422
+washington state sanctuary,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/jim-jordan-investigating-washington-states-dangerous-sanctuary-policies/,0.0,0.8711333333333333,0.8711333333333333
+states washington sanctuary,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/jim-jordan-investigating-washington-states-dangerous-sanctuary-policies/,0.0,0.8999666666666667,0.8999666666666667
+sanctuary policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/jim-jordan-investigating-washington-states-dangerous-sanctuary-policies/,0.0,0.7864666666666666,0.7864666666666666
+foreign citizens afraid,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/marco-rubio-foreign-visitors-have-nothing-to-worry-about-if-they-dont-join-a-hamas-protest/,-0.3625,0.8728666666666666,0.8728666666666666
+rubio told foreigners,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/marco-rubio-foreign-visitors-have-nothing-to-worry-about-if-they-dont-join-a-hamas-protest/,0.0,0.8492999999999999,0.8492999999999999
+deportation efforts worry,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/marco-rubio-foreign-visitors-have-nothing-to-worry-about-if-they-dont-join-a-hamas-protest/,0.0,0.8950333333333335,0.8950333333333335
+citizens afraid come,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/marco-rubio-foreign-visitors-have-nothing-to-worry-about-if-they-dont-join-a-hamas-protest/,-0.6,0.9184666666666667,0.9184666666666667
+told foreigners afraid,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/marco-rubio-foreign-visitors-have-nothing-to-worry-about-if-they-dont-join-a-hamas-protest/,-0.6,0.8939333333333334,0.8939333333333334
+tiktok deal trump,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/,0.0,0.8076333333333334,0.8076333333333334
+executive order tiktok,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/,0.0,0.8599333333333333,0.8599333333333333
+order tiktok running,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/,0.0,0.9144333333333333,0.9144333333333333
+tiktok china,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/,0.0,0.7972666666666667,0.7972666666666667
+order tiktok,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/,0.0,0.8140666666666667,0.8140666666666667
+tiktok deal trump,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/#disqus_thread,0.0,0.8076333333333334,0.8076333333333334
+executive order tiktok,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/#disqus_thread,0.0,0.8599333333333333,0.8599333333333333
+order tiktok running,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/#disqus_thread,0.0,0.9144333333333333,0.9144333333333333
+tiktok china,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/#disqus_thread,0.0,0.7972666666666667,0.7972666666666667
+order tiktok,right,https://www.breitbart.com,https://www.breitbart.com/news/trump-says-hes-giving-tiktok-another-75-days-to-find-a-us-buyer/#disqus_thread,0.0,0.8140666666666667,0.8140666666666667
+training grants reportedly,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/supreme-court-allows-trump-admin-freeze-teacher-grants/#disqus_thread,0.0,0.9110999999999999,0.9110999999999999
+grants reportedly,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/supreme-court-allows-trump-admin-freeze-teacher-grants/#disqus_thread,0.0,0.6765,0.6765
+teacher training grants,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/supreme-court-allows-trump-admin-freeze-teacher-grants/#disqus_thread,0.0,0.8840333333333333,0.8840333333333333
+training grants,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/supreme-court-allows-trump-admin-freeze-teacher-grants/#disqus_thread,0.0,0.8161666666666667,0.8161666666666667
+training grants totalling,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/supreme-court-allows-trump-admin-freeze-teacher-grants/#disqus_thread,0.0,0.9100999999999999,0.9100999999999999
+hakeem jeffries senate,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/,0.0,0.8650000000000001,0.8650000000000001
+democrat break jeffries,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/,0.0,0.8567333333333332,0.8567333333333332
+jeffries senate democrat,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/,0.0,0.8901333333333333,0.8901333333333333
+jeffries democrat leader,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/,0.0,0.8806666666666666,0.8806666666666666
+jeffries senate,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/house-democrats-jump-ship-as-hakeem-jeffries-hits-choppy-waters/,0.0,0.7974666666666667,0.7974666666666667
+antao assaulted pro,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/catholic-pro-life-activist-attacked-during-street-video-interview-in-nyc/,0.0,0.8828333333333335,0.8828333333333335
+antao assaulted,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/catholic-pro-life-activist-attacked-during-street-video-interview-in-nyc/,0.0,0.7771,0.7771
+news friday assault,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/catholic-pro-life-activist-attacked-during-street-video-interview-in-nyc/,0.0,0.8561,0.8561
+assaulted pro abortion,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/catholic-pro-life-activist-attacked-during-street-video-interview-in-nyc/,0.0,0.8296666666666667,0.8296666666666667
+pro life reporter,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/catholic-pro-life-activist-attacked-during-street-video-interview-in-nyc/,0.0,0.8663666666666666,0.8663666666666666
+tariffs wednesday trump,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/#disqus_thread,0.0,0.8127333333333334,0.8127333333333334
+january walmart ceo,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/#disqus_thread,0.0,0.9422333333333333,0.9422333333333333
+corporate america trump,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/#disqus_thread,0.0,0.8568666666666666,0.8568666666666666
+walmart ceo doug,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/#disqus_thread,0.0,0.9007333333333333,0.9007333333333333
+walmart ceo,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/big-retail-opposes-trumps-america-first-reciprocal-tariffs/#disqus_thread,0.0,0.7092333333333333,0.7092333333333333
+massachusetts boston protest,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/hands-off-rallies-to-be-held-saturday-to-protest-donald-trump-elon-musk/,0.0,0.8912,0.8912
+boston protest begin,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/hands-off-rallies-to-be-held-saturday-to-protest-donald-trump-elon-musk/,0.0,0.9026333333333333,0.9026333333333333
+boston protest,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/hands-off-rallies-to-be-held-saturday-to-protest-donald-trump-elon-musk/,0.0,0.7774666666666666,0.7774666666666666
+protests held boston,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/hands-off-rallies-to-be-held-saturday-to-protest-donald-trump-elon-musk/,0.0,0.8279666666666667,0.8279666666666667
+hands protests planned,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/hands-off-rallies-to-be-held-saturday-to-protest-donald-trump-elon-musk/,0.0,0.9289666666666667,0.9289666666666667
+trade policies pelosi,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/watch-nancy-pelosi-in-1996-assails-u-s-free-trade-with-china-is-this-reciprocal/,0.0,0.8522,0.8522
+china include pelosi,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/watch-nancy-pelosi-in-1996-assails-u-s-free-trade-with-china-is-this-reciprocal/,0.0,0.8407,0.8407
+states pelosi said,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/watch-nancy-pelosi-in-1996-assails-u-s-free-trade-with-china-is-this-reciprocal/,0.0,0.9233666666666668,0.9233666666666668
+pelosi noted,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/watch-nancy-pelosi-in-1996-assails-u-s-free-trade-with-china-is-this-reciprocal/,0.0,0.7723333333333334,0.7723333333333334
+mfn status pelosi,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/03/watch-nancy-pelosi-in-1996-assails-u-s-free-trade-with-china-is-this-reciprocal/,0.0,0.8839333333333332,0.8839333333333332
+transgender policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/#disqus_thread,0.0,0.7529666666666667,0.7529666666666667
+pro transgender policies,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/#disqus_thread,0.0,0.9526333333333333,0.9526333333333333
+transgender surgeries inmates,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/#disqus_thread,0.0,0.8694333333333333,0.8694333333333333
+transgender policies catering,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/#disqus_thread,0.0,0.8314,0.8314
+surgeries inmates walkout,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/democrat-lawmakers-in-georgia-stage-walkout-to-protest-bill-stopping-taxpayer-funds-for-transgender-surgeries-for-inmates/#disqus_thread,0.0,0.8715,0.8715
+organizations tax exempt,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/leftist-billionaire-bill-gates-foundation-in-danger-of-losing-tax-exempt-status/#disqus_thread,0.0,0.8609,0.8609
+accused gates foundation,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/leftist-billionaire-bill-gates-foundation-in-danger-of-losing-tax-exempt-status/#disqus_thread,0.0,0.9014333333333333,0.9014333333333333
+leftist gates nonprofit,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/leftist-billionaire-bill-gates-foundation-in-danger-of-losing-tax-exempt-status/#disqus_thread,-0.05,0.8807999999999999,0.8807999999999999
+melinda gates foundation,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/leftist-billionaire-bill-gates-foundation-in-danger-of-losing-tax-exempt-status/#disqus_thread,0.0,0.9087333333333333,0.9087333333333333
+organizations discriminate,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/leftist-billionaire-bill-gates-foundation-in-danger-of-losing-tax-exempt-status/#disqus_thread,0.0,0.7563333333333334,0.7563333333333334
+trump reciprocal tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/chamber-commerce-lobbies-more-free-trade-deals-after-trumps-tariffs/,0.0,0.8862333333333333,0.8862333333333333
+reciprocal tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/chamber-commerce-lobbies-more-free-trade-deals-after-trumps-tariffs/,0.0,0.8204333333333333,0.8204333333333333
+tariffs foreign imports,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/chamber-commerce-lobbies-more-free-trade-deals-after-trumps-tariffs/,-0.125,0.9172333333333333,0.9172333333333333
+announced reciprocal tariffs,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/chamber-commerce-lobbies-more-free-trade-deals-after-trumps-tariffs/,0.0,0.8774666666666667,0.8774666666666667
+reciprocal tariffs foreign,right,https://www.breitbart.com,https://www.breitbart.com/politics/2025/04/04/chamber-commerce-lobbies-more-free-trade-deals-after-trumps-tariffs/,-0.125,0.9386333333333333,0.9386333333333333
+tariffs trump seeking,right,https://www.theblaze.com,https://www.theblaze.com/news/china-tariffs-against-us-trump,0.0,0.8827333333333334,0.8827333333333334
+tariffs trump,right,https://www.theblaze.com,https://www.theblaze.com/news/china-tariffs-against-us-trump,0.0,0.7381000000000001,0.7381000000000001
+tariff chinese,right,https://www.theblaze.com,https://www.theblaze.com/news/china-tariffs-against-us-trump,0.0,0.8056,0.8056
+tariff chinese products,right,https://www.theblaze.com,https://www.theblaze.com/news/china-tariffs-against-us-trump,0.0,0.8969,0.8969
+reciprocal tariff chinese,right,https://www.theblaze.com,https://www.theblaze.com/news/china-tariffs-against-us-trump,0.0,0.9308,0.9308
+door striking suspect,right,https://www.theblaze.com,https://www.theblaze.com/news/male-allegedly-threatens-to-kill-homeowner-bangs-on-door-after-midnight-but-resident-isnt-playing-shoots-through-door,0.5,0.8371000000000001,0.8371000000000001
+suspect banging door,right,https://www.theblaze.com,https://www.theblaze.com/news/male-allegedly-threatens-to-kill-homeowner-bangs-on-door-after-midnight-but-resident-isnt-playing-shoots-through-door,0.0,0.8926333333333334,0.8926333333333334
+door opened suspect,right,https://www.theblaze.com,https://www.theblaze.com/news/male-allegedly-threatens-to-kill-homeowner-bangs-on-door-after-midnight-but-resident-isnt-playing-shoots-through-door,0.0,0.8572000000000001,0.8572000000000001
+reportedly banging door,right,https://www.theblaze.com,https://www.theblaze.com/news/male-allegedly-threatens-to-kill-homeowner-bangs-on-door-after-midnight-but-resident-isnt-playing-shoots-through-door,0.0,0.9101666666666667,0.9101666666666667
+door wounded male,right,https://www.theblaze.com,https://www.theblaze.com/news/male-allegedly-threatens-to-kill-homeowner-bangs-on-door-after-midnight-but-resident-isnt-playing-shoots-through-door,0.0,0.8611,0.8611
+noted taibbi accused,right,https://www.theblaze.com,https://www.theblaze.com/news/matt-taibbi-looking-to-make-congresswoman-pay-big-time-for-repeating-her-smear-online,0.0,0.9180333333333334,0.9180333333333334
+taibbi said defamation,right,https://www.theblaze.com,https://www.theblaze.com/news/matt-taibbi-looking-to-make-congresswoman-pay-big-time-for-repeating-her-smear-online,0.0,0.8546333333333332,0.8546333333333332
+taibbi accused,right,https://www.theblaze.com,https://www.theblaze.com/news/matt-taibbi-looking-to-make-congresswoman-pay-big-time-for-repeating-her-smear-online,0.0,0.7728333333333334,0.7728333333333334
+harassed matt taibbi,right,https://www.theblaze.com,https://www.theblaze.com/news/matt-taibbi-looking-to-make-congresswoman-pay-big-time-for-repeating-her-smear-online,0.0,0.8253,0.8253
+journalist matt taibbi,right,https://www.theblaze.com,https://www.theblaze.com/news/matt-taibbi-looking-to-make-congresswoman-pay-big-time-for-repeating-her-smear-online,0.0,0.8401666666666667,0.8401666666666667
+fired nsc staffers,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-ousts-nsa-director-in-agency-shake-up-report,0.0,0.8957333333333333,0.8957333333333333
+ousted nsc staffers,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-ousts-nsa-director-in-agency-shake-up-report,0.0,0.8836,0.8836
+administration thursday fired,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-ousts-nsa-director-in-agency-shake-up-report,0.0,0.8874333333333334,0.8874333333333334
+fired director national,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-ousts-nsa-director-in-agency-shake-up-report,0.0,0.8842333333333334,0.8842333333333334
+fired officials,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-ousts-nsa-director-in-agency-shake-up-report,0.0,0.8003666666666667,0.8003666666666667
+title ix investigations,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-launches-team-to-safeguard-children-from-gender-ideology,0.0,0.9067666666666666,0.9067666666666666
+title ix sit,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-launches-team-to-safeguard-children-from-gender-ideology,0.0,0.8988333333333333,0.8988333333333333
+title ix cases,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-launches-team-to-safeguard-children-from-gender-ideology,0.0,0.896,0.896
+probing title ix,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-launches-team-to-safeguard-children-from-gender-ideology,0.0,0.8691666666666666,0.8691666666666666
+title ix complaints,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-admin-launches-team-to-safeguard-children-from-gender-ideology,0.0,0.8957,0.8957
+secure border president,right,https://www.theblaze.com,https://www.theblaze.com/news/julio-rosas-mayorkas-video-immigration,0.4,0.8731666666666666,0.8731666666666666
+border president donald,right,https://www.theblaze.com,https://www.theblaze.com/news/julio-rosas-mayorkas-video-immigration,0.0,0.8642666666666666,0.8642666666666666
+mayorkas impeached border,right,https://www.theblaze.com,https://www.theblaze.com/news/julio-rosas-mayorkas-video-immigration,0.0,0.8625666666666666,0.8625666666666666
+border president trump,right,https://www.theblaze.com,https://www.theblaze.com/news/julio-rosas-mayorkas-video-immigration,0.0,0.8597,0.8597
+border president,right,https://www.theblaze.com,https://www.theblaze.com/news/julio-rosas-mayorkas-video-immigration,0.0,0.7914,0.7914
+suspect deputy kirk,right,https://www.theblaze.com,https://www.theblaze.com/news/blaze-news-original-la-sheriff-threw-deputy-to-federal-wolves-to-appease-liberal-mob-union-rep-says,0.0,0.9043333333333333,0.9043333333333333
+kirk deputy encountered,right,https://www.theblaze.com,https://www.theblaze.com/news/blaze-news-original-la-sheriff-threw-deputy-to-federal-wolves-to-appease-liberal-mob-union-rep-says,0.0,0.856,0.856
+handcuff suspect deputy,right,https://www.theblaze.com,https://www.theblaze.com/news/blaze-news-original-la-sheriff-threw-deputy-to-federal-wolves-to-appease-liberal-mob-union-rep-says,0.0,0.8329,0.8329
+trevor kirk deputy,right,https://www.theblaze.com,https://www.theblaze.com/news/blaze-news-original-la-sheriff-threw-deputy-to-federal-wolves-to-appease-liberal-mob-union-rep-says,0.0,0.8898333333333334,0.8898333333333334
+caught deputy,right,https://www.theblaze.com,https://www.theblaze.com/news/blaze-news-original-la-sheriff-threw-deputy-to-federal-wolves-to-appease-liberal-mob-union-rep-says,0.0,0.7659333333333334,0.7659333333333334
+video trump,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-raises-eyebrows-by-sharing-video-claiming-he-s-purposely-crashing-the-market,0.0,0.7788666666666666,0.7788666666666666
+video trump intentionally,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-raises-eyebrows-by-sharing-video-claiming-he-s-purposely-crashing-the-market,0.0,0.8708333333333332,0.8708333333333332
+trump shared video,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-raises-eyebrows-by-sharing-video-claiming-he-s-purposely-crashing-the-market,0.0,0.8688666666666668,0.8688666666666668
+trump playing chess,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-raises-eyebrows-by-sharing-video-claiming-he-s-purposely-crashing-the-market,0.0,0.8302666666666667,0.8302666666666667
+evidence warren buffett,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-raises-eyebrows-by-sharing-video-claiming-he-s-purposely-crashing-the-market,0.0,0.8858,0.8858
+harris answered,right,https://www.theblaze.com,https://www.theblaze.com/news/cutter-kamala-view-question-failed,0.0,0.7704666666666666,0.7704666666666666
+interview view harris,right,https://www.theblaze.com,https://www.theblaze.com/news/cutter-kamala-view-question-failed,0.0,0.8489666666666666,0.8489666666666666
+harris answered asked,right,https://www.theblaze.com,https://www.theblaze.com/news/cutter-kamala-view-question-failed,0.0,0.8729666666666667,0.8729666666666667
+harris presidential campaign,right,https://www.theblaze.com,https://www.theblaze.com/news/cutter-kamala-view-question-failed,0.0,0.8670666666666667,0.8670666666666667
+shocked harris answered,right,https://www.theblaze.com,https://www.theblaze.com/news/cutter-kamala-view-question-failed,-0.7,0.9277000000000001,0.9277000000000001
+pro life reporter,right,https://www.theblaze.com,https://www.theblaze.com/news/abortion-reporter-assault-video-harlem,0.0,0.8663666666666666,0.8663666666666666
+live action intervened,right,https://www.theblaze.com,https://www.theblaze.com/news/abortion-reporter-assault-video-harlem,0.11818181818181818,0.8866999999999999,0.8866999999999999
+pro life stance,right,https://www.theblaze.com,https://www.theblaze.com/news/abortion-reporter-assault-video-harlem,0.0,0.8874666666666666,0.8874666666666666
+abused antao responded,right,https://www.theblaze.com,https://www.theblaze.com/news/abortion-reporter-assault-video-harlem,0.0,0.9260333333333334,0.9260333333333334
+action journalist violently,right,https://www.theblaze.com,https://www.theblaze.com/news/abortion-reporter-assault-video-harlem,-0.35000000000000003,0.9273333333333333,0.9273333333333333
+tesla vandalism suspect,right,https://www.theblaze.com,https://www.theblaze.com/news/why-a-minnesota-police-chief-says-a-female-tesla-vandalism-suspect-wont-be-charged-and-even-may-have-been-a-victim,0.0,0.9034333333333334,0.9034333333333334
+tesla vandalism,right,https://www.theblaze.com,https://www.theblaze.com/news/why-a-minnesota-police-chief-says-a-female-tesla-vandalism-suspect-wont-be-charged-and-even-may-have-been-a-victim,0.0,0.791,0.791
+attacks tesla vehicles,right,https://www.theblaze.com,https://www.theblaze.com/news/why-a-minnesota-police-chief-says-a-female-tesla-vandalism-suspect-wont-be-charged-and-even-may-have-been-a-victim,0.0,0.8995000000000001,0.8995000000000001
+charging tesla vandalism,right,https://www.theblaze.com,https://www.theblaze.com/news/why-a-minnesota-police-chief-says-a-female-tesla-vandalism-suspect-wont-be-charged-and-even-may-have-been-a-victim,0.0,0.8618333333333333,0.8618333333333333
+past tesla parked,right,https://www.theblaze.com,https://www.theblaze.com/news/why-a-minnesota-police-chief-says-a-female-tesla-vandalism-suspect-wont-be-charged-and-even-may-have-been-a-victim,-0.25,0.9332333333333334,0.9332333333333334
+children transgenderism 2023,right,https://www.theblaze.com,https://www.theblaze.com/news/meet-the-queer-radicals-who-secretly-send-kids-sex-change-kits,0.0,0.9324333333333333,0.9324333333333333
+children transgenderism,right,https://www.theblaze.com,https://www.theblaze.com/news/meet-the-queer-radicals-who-secretly-send-kids-sex-change-kits,0.0,0.7812333333333333,0.7812333333333333
+working transgender legal,right,https://www.theblaze.com,https://www.theblaze.com/news/meet-the-queer-radicals-who-secretly-send-kids-sex-change-kits,0.2,0.9351333333333334,0.9351333333333334
+transgender legal,right,https://www.theblaze.com,https://www.theblaze.com/news/meet-the-queer-radicals-who-secretly-send-kids-sex-change-kits,0.2,0.7515333333333333,0.7515333333333333
+transgender legal defense,right,https://www.theblaze.com,https://www.theblaze.com/news/meet-the-queer-radicals-who-secretly-send-kids-sex-change-kits,0.2,0.8826999999999999,0.8826999999999999
+checks community notes,right,https://www.theblaze.com,https://www.theblaze.com/news/meta-officially-ending-fact-checking,0.0,0.8746333333333333,0.8746333333333333
+new community notes,right,https://www.theblaze.com,https://www.theblaze.com/news/meta-officially-ending-fact-checking,0.13636363636363635,0.8775,0.8775
+community note,right,https://www.theblaze.com,https://www.theblaze.com/news/meta-officially-ending-fact-checking,0.0,0.7896666666666666,0.7896666666666666
+community notes better,right,https://www.theblaze.com,https://www.theblaze.com/news/meta-officially-ending-fact-checking,0.5,0.8695666666666666,0.8695666666666666
+community notes start,right,https://www.theblaze.com,https://www.theblaze.com/news/meta-officially-ending-fact-checking,0.0,0.8740666666666667,0.8740666666666667
+obama secretly clooney,right,https://www.theblaze.com,https://www.theblaze.com/news/clooney-obama-brzezinski-angry-oped,-0.4,0.8486333333333334,0.8486333333333334
+president clooney argument,right,https://www.theblaze.com,https://www.theblaze.com/news/clooney-obama-brzezinski-angry-oped,0.0,0.9239333333333333,0.9239333333333333
+clooney msnbc responded,right,https://www.theblaze.com,https://www.theblaze.com/news/clooney-obama-brzezinski-angry-oped,0.0,0.9049999999999999,0.9049999999999999
+president clooney,right,https://www.theblaze.com,https://www.theblaze.com/news/clooney-obama-brzezinski-angry-oped,0.0,0.7904333333333334,0.7904333333333334
+george clooney reportedly,right,https://www.theblaze.com,https://www.theblaze.com/news/clooney-obama-brzezinski-angry-oped,0.0,0.9487666666666668,0.9487666666666668
+cuts federal judge,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-supreme-court-win-dei,0.0,0.8231333333333333,0.8231333333333333
+lawsuit trump administration,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-supreme-court-win-dei,0.0,0.8821333333333333,0.8821333333333333
+federal funding cuts,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-supreme-court-win-dei,0.0,0.8944666666666666,0.8944666666666666
+funding cuts trump,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-supreme-court-win-dei,0.0,0.8577,0.8577
+cuts trump executive,right,https://www.theblaze.com,https://www.theblaze.com/news/trump-supreme-court-win-dei,0.0,0.8537666666666667,0.8537666666666667
+cortez schumer progressives,right,https://www.theblaze.com,https://www.theblaze.com/news/aoc-schumer-head-to-head,0.0,0.9034,0.9034
+chuck schumer polling,right,https://www.theblaze.com,https://www.theblaze.com/news/aoc-schumer-head-to-head,0.0,0.8809999999999999,0.8809999999999999
+schumer progressives,right,https://www.theblaze.com,https://www.theblaze.com/news/aoc-schumer-head-to-head,0.0,0.8217333333333333,0.8217333333333333
+democrat voters new,right,https://www.theblaze.com,https://www.theblaze.com/news/aoc-schumer-head-to-head,0.13636363636363635,0.9172666666666666,0.9172666666666666
+democratic primary voters,right,https://www.theblaze.com,https://www.theblaze.com/news/aoc-schumer-head-to-head,0.4,0.9032,0.9032
+remains discovered church,right,https://www.theblaze.com,https://www.theblaze.com/news/archaeologists-jesus-christ-mystery-burial-archaelogical-discovery,0.0,0.8489666666666666,0.8489666666666666
+jesus tomb site,right,https://www.theblaze.com,https://www.theblaze.com/news/archaeologists-jesus-christ-mystery-burial-archaelogical-discovery,0.0,0.934,0.934
+church excavated,right,https://www.theblaze.com,https://www.theblaze.com/news/archaeologists-jesus-christ-mystery-burial-archaelogical-discovery,0.0,0.8011333333333334,0.8011333333333334
+entire church excavated,right,https://www.theblaze.com,https://www.theblaze.com/news/archaeologists-jesus-christ-mystery-burial-archaelogical-discovery,0.0,0.8917666666666667,0.8917666666666667
+remnants ancient garden,right,https://www.theblaze.com,https://www.theblaze.com/news/archaeologists-jesus-christ-mystery-burial-archaelogical-discovery,0.0,0.8865333333333334,0.8865333333333334
+priest reportedly shot,right,https://www.theblaze.com,https://www.theblaze.com/news/catholic-priest-shot-killed-kansas,0.0,0.8502000000000001,0.8502000000000001
+murder catholic priest,right,https://www.theblaze.com,https://www.theblaze.com/news/catholic-priest-shot-killed-kansas,0.0,0.9168333333333334,0.9168333333333334
+priest shot,right,https://www.theblaze.com,https://www.theblaze.com/news/catholic-priest-shot-killed-kansas,0.0,0.7511333333333333,0.7511333333333333
+killed thursday parish,right,https://www.theblaze.com,https://www.theblaze.com/news/catholic-priest-shot-killed-kansas,-0.2,0.8229000000000001,0.8229000000000001
+indicated murder catholic,right,https://www.theblaze.com,https://www.theblaze.com/news/catholic-priest-shot-killed-kansas,0.0,0.8797,0.8797
+meal kit option,right,https://nypost.com,https://nypost.com/article/the-best-meal-delivery-kits/,0.0,0.8775666666666666,0.8775666666666666
+choose meal kits,right,https://nypost.com,https://nypost.com/article/the-best-meal-delivery-kits/,0.0,0.9111333333333334,0.9111333333333334
+takeout meal kits,right,https://nypost.com,https://nypost.com/article/the-best-meal-delivery-kits/,0.0,0.8964,0.8964
+meal kits convenience,right,https://nypost.com,https://nypost.com/article/the-best-meal-delivery-kits/,0.0,0.8725333333333333,0.8725333333333333
+meal kits easier,right,https://nypost.com,https://nypost.com/article/the-best-meal-delivery-kits/,0.0,0.8756666666666666,0.8756666666666666
+protesters descend dc,right,https://nypost.com,https://nypost.com/politics/,0.0,0.8715666666666667,0.8715666666666667
+anti trump protesters,right,https://nypost.com,https://nypost.com/politics/,0.0,0.8977333333333334,0.8977333333333334
+trump protesters,right,https://nypost.com,https://nypost.com/politics/,0.0,0.7487,0.7487
+trump protesters descend,right,https://nypost.com,https://nypost.com/politics/,0.0,0.9100666666666667,0.9100666666666667
+dc rally musk,right,https://nypost.com,https://nypost.com/politics/,0.0,0.8818666666666667,0.8818666666666667
